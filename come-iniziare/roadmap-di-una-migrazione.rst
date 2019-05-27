@@ -50,7 +50,8 @@ obiettivi di ogni fase, possiamo identificare tre momenti rilevanti:
 Le tre fasi identificate suggeriscono un approccio multi-fase che può
 poi essere adattato alle specifiche realtà.
 
-|image0|
+.. figure:: media/image1.png
+   :alt: immagine 1
 
 +-----------------------+-----------------------+-----------------------+
 | OBIETTIVO:            | OBIETTIVO:            | OBIETTIVO:            |
