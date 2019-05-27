@@ -236,7 +236,7 @@ e funzionalità prima non attuabili.
 -  **tempo di risoluzione dei ticket**: in cloud vi è la possibilità di
    operare sulla propria infrastruttura in maniera più avanzata. È
    importante misurare l’impatto di questo cambiamento
-   sull’operatitività del supporto tecnico
+   sull’operatività del supporto tecnico
 
 -  **sondaggi sulla soddisfazione degli utenti**: le risposte indicano
    eventuali problemi nel servizio?
