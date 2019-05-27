@@ -5,7 +5,6 @@ Cloud Enable Program
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  cloud-enablement-program.rst
   indice.rst
   introduzione.rst
   il-cloud.rst
