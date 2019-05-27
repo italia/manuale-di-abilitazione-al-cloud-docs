@@ -1,4 +1,4 @@
-Cloud Enable Program
+Cloud Enablement Program
 ==================================================================================
 
 .. toctree::
