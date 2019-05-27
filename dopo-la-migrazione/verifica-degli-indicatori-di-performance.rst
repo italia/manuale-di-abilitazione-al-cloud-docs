@@ -82,7 +82,7 @@ formazione e del personale se si continuano ad ospitare le applicazioni
 on-premise.
 
 -  **costo delle strategie di migrazione delle applicazioni**: il costo
-   associato al tipo di strategia di migrazione addottata per far
+   associato al tipo di strategia di migrazione adottata per far
    funzionare le applicazioni nel cloud (vedi capitolo 4.1)
 
 -  **tempi di gestione**: quanto tempo di gestione viene speso per
