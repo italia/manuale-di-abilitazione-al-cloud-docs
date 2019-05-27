@@ -6,7 +6,7 @@ Cloud Enablement Program
   :caption: Indice dei contenuti
 
   indice.rst
-  introduzione.rst
+  premessa.rst
   il-cloud.rst
   come-iniziare.rst
   assessment-servizi-e-infrastruttura.rst
