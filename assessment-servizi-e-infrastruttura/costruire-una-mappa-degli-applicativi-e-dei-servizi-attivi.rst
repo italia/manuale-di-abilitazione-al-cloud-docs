@@ -340,6 +340,4 @@ dal punto di vista del valore generato rispetto agli altri e la
 complessità della migrazione richiede un’esperienza consolidata che si
 può avere dopo aver completato con successo le migrazioni precedenti.
 
-.. |image0| image:: ./media/image8.png
-   :width: 3.56079in
-   :height: 2.53784in
+
