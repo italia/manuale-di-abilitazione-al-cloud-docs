@@ -143,7 +143,7 @@ applicativi. Esso si basa su quattro livelli di priorità come illustrato
 nel seguente grafico:
 
 .. figure:: media/image8.png
-   :alt: Immagine 8
+   :alt: immagine 8
 
 I software con “opportunità da cogliere” hanno una priorità maggiore
 rispetto a quelli con “rischio minimo” che a loro volta sono da
