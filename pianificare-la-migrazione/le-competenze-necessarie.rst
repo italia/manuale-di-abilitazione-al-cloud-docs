@@ -56,15 +56,17 @@ definire:
 1. | **le aree di competenza necessarie**: macrocategorie che
      raggruppano una serie di skills, ad esempio come mostrato
      nell’immagine
-   | |image0|
+
+.. figure:: media/image14.png
+   :alt: immagine 14
 
 2. **le skill per ognuna delle aree di competenza individuate**: divise
    in skill non-tecniche (ad es. di stampo metodologico e comunicativo)
    e tecniche, ad esempio come mostrato nell’immagine e che verranno poi
    distribuite nelle aree di competenza individuate
 
-| .
-| |image1|
+.. figure:: media/image15.png
+   :alt: immagine 15
 
 Una volta definite le aree di competenza e le skills che le compongono,
 il passo successivo consiste nell’effettuare una valutazione interna
@@ -140,7 +142,8 @@ dove:
 -  con i numeri da 1 a 5 sono i diversi livelli che possono essere
    marcati
 
-|image2|
+.. figure:: media/image16.png
+   :alt: immagine 16
 
 4.2.3 Strumento per la valutazione delle competenze 
 ----------------------------------------------------
@@ -189,13 +192,3 @@ Il documento è suddiviso in diversi fogli:
    di competenze e sulle quali è quindi necessario un supporto esterno o
    di formazione. Si noti che non è inclusa la strategia di Retain in
    quanto non richiede azioni (dunque competenze) specifiche.
-
-.. |image0| image:: ./media/image14.png
-   :width: 5.26414in
-   :height: 2.95827in
-.. |image1| image:: ./media/image15.png
-   :width: 5.33629in
-   :height: 2.8737in
-.. |image2| image:: ./media/image16.png
-   :width: 6.16146in
-   :height: 3.0906in
