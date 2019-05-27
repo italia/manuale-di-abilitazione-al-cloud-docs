@@ -225,7 +225,7 @@ sincronizzati.
 
 -  **integrazione e test delle app**: sfortunatamente, alcune
    applicazioni non sono pronte per il cloud. Sia che si tratti di
-   grandi sistemi ERP (enterprise resource planning) con funzionalità
+   grandi sistemi ERP (`enterprise resource planning <https://it.wikipedia.org/wiki/Enterprise_resource_planning/>`_) con funzionalità
    che dipendono da server on-premise o di software legacy in uso da
    anni, è necessario tenere in considerazione i costi di integrazione e
    test di queste app dopo averli spostati nel cloud.
