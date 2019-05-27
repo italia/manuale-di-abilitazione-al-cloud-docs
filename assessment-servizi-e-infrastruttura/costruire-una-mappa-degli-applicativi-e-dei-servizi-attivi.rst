@@ -142,8 +142,8 @@ con la valutazione di dettaglio (vedo 3.2) per la migrazione degli
 applicativi. Esso si basa su quattro livelli di priorità come illustrato
 nel seguente grafico:
 
-.. figure:: media/image1.png
-   :alt: Immagine 1
+.. figure:: media/image8.png
+   :alt: Immagine 8
 
 I software con “opportunità da cogliere” hanno una priorità maggiore
 rispetto a quelli con “rischio minimo” che a loro volta sono da
