@@ -24,7 +24,8 @@ effettive risorse che si possono utilizzare: non esiste la strategia
 corretta ma il giusto bilanciamento di queste due componenti in base al
 contesto in cui si opera.
 
-|image0|
+.. figure:: media/image9.png
+   :alt: immagine 9
 
 Il livello di valore che si può ottenere da una migrazione può essere
 espresso in termini di risparmio sui costi dell’infrastruttura e della
@@ -229,7 +230,8 @@ installato e gestito on-premise con la controparte SaaS**.
 
 Possiamo rappresentare questa strategia con il seguente diagramma:
 
-|image1|
+.. figure:: media/image10.png
+   :alt: immagine 10
 
 Se un applicativo on-premise non ha un’alternativa SaaS fornita dal
 medesimo produttore, bisogna procedere con un benchmark comparativo per
@@ -371,7 +373,8 @@ i vantaggi del cloud.
 
 Possiamo rappresentare questa strategia con il seguente diagramma:
 
-|image2|
+.. figure:: media/image11.png
+   :alt: immagine 11
 
 La strategia può essere eseguita in due modi:
 
@@ -561,7 +564,8 @@ destinazione.
 
 Possiamo rappresentare questa strategia con il seguente diagramma:
 
-|image3|
+.. figure:: media/image12.png
+   :alt: immagine 12
 
 Esempi di sostituzione sono:
 
@@ -719,7 +723,8 @@ refactoring o trasformazione del codice sorgente in modo controllato.
 
 Possiamo rappresentare il re-architect con il seguente diagramma:
 
-|image4|
+.. figure:: media/image13.png
+   :alt: immagine 13
 
 **Benefici**
 
@@ -818,19 +823,3 @@ visione strategica dell’amministrazione giustificandone l’investimento
 in tempo, competenze e costi per un redesign dell’architettura possibile
 grazie alla proprietà del codice sorgente o alla capacità di influenzare
 la roadmap evolutiva definita dal produttore.
-
-.. |image0| image:: ./media/image9.png
-   :width: 6.5in
-   :height: 2.36736in
-.. |image1| image:: ./media/image10.png
-   :width: 4.50505in
-   :height: 4.55556in
-.. |image2| image:: ./media/image11.png
-   :width: 4.49203in
-   :height: 3.94924in
-.. |image3| image:: ./media/image12.png
-   :width: 3.69082in
-   :height: 4.21966in
-.. |image4| image:: ./media/image13.png
-   :width: 3.34525in
-   :height: 4.83332in
