@@ -17,10 +17,3 @@ usare per pianificare e attuare la migrazione.
 Prima di iniziare a parlare di migrazione però, in questo capitolo
 vediamo insieme cos'è il cloud e quali sono i vantaggi che ci si aspetta
 dalla sua adozione nell’ambito della pubblica amministrazione.
-
-.. toctree::
-  :maxdepth: 3
-  :caption: Indice dei contenuti
-
-  il-cloud/cosè-il-cloud.rst
-  il-cloud/perché-usare-il-cloud.rst
