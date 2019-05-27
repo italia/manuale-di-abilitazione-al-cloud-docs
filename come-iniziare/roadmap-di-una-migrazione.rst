@@ -224,7 +224,8 @@ iterativa e incrementale come illustrato sopra):
 Una visione di alto livello dell’approccio con i macro-obiettivi e i
 rispettivi step (attività) è rappresentata nella figura sotto.
 
-|image1|
+.. figure:: media/image2.png
+   :alt: immagine 2
 
 Una visione in dettaglio dell’approccio è invece rappresentata nelle
 immagini seguenti, dove per ogni macro-obiettivo e per i rispettivi step
@@ -233,41 +234,46 @@ abbiamo evidenziato anche le persone da coinvolgere e il risultato
 
 Primo macro-obiettivo:
 
-|image2|
+.. figure:: media/image3.png
+   :alt: immagine 3
 
 Secondo macro-obiettivo:
 
-|image3|
+.. figure:: media/image4.png
+   :alt: immagine 4
 
 Terzo macro-obiettivo:
 
-|image4|
+.. figure:: media/image5.png
+   :alt: immagine 5
 
 Quarto macro-obiettivo:
 
-|image5|
+.. figure:: media/image6.png
+   :alt: immagine 6
 
 Quinto macro-obiettivo:
 
-|image6|
+.. figure:: media/image7.png
+   :alt: immagine 7
 
-| In generale, migrare al cloud richiede un esercizio di gestione e
-  orchestrazione del cambiamento che va oltre la semplice e diligente
-  applicazione di strumenti e metodologie. Di questo bisogna essere
-  coscienti ancor prima di iniziare. La complessità di questo processo
-  di trasformazione è insita nella natura della sfida stessa, costituita
-  da un insieme di fattori (tecnologia, persone, contesto, pratiche,
-  ecc.) connessi tra loro e non separabili nè attaccabili separatamente.
-  Una sfida complessa non può essere affrontata con un approccio
-  analitico. Essa ha piuttosto bisogno di un approccio emergente e di
-  una buona governance che affronti il problema nella sua interezza,
-  considerando tutti i fattori coinvolti e osservando l’evoluzione nel
-  tempo della relazione tra di essi a seconda della soluzione applicata.
-| Di conseguenza, oltre a iniziare il viaggio seguendo un percorso
-  predefinito per il fattore tecnologia, le pubbliche amministrazioni
-  dovranno al contempo impegnarsi in attività che impattano sugli altri
-  fattori correlati, ovvero sui processi, sulle persone e in generale
-  sulla cultura dell’organizzazione.
+In generale, migrare al cloud richiede un esercizio di gestione e
+orchestrazione del cambiamento che va oltre la semplice e diligente
+applicazione di strumenti e metodologie. Di questo bisogna essere
+coscienti ancor prima di iniziare. La complessità di questo processo
+di trasformazione è insita nella natura della sfida stessa, costituita
+da un insieme di fattori (tecnologia, persone, contesto, pratiche,
+ecc.) connessi tra loro e non separabili nè attaccabili separatamente.
+Una sfida complessa non può essere affrontata con un approccio
+analitico. Essa ha piuttosto bisogno di un approccio emergente e di
+una buona governance che affronti il problema nella sua interezza,
+considerando tutti i fattori coinvolti e osservando l’evoluzione nel
+tempo della relazione tra di essi a seconda della soluzione applicata.
+Di conseguenza, oltre a iniziare il viaggio seguendo un percorso
+predefinito per il fattore tecnologia, le pubbliche amministrazioni
+dovranno al contempo impegnarsi in attività che impattano sugli altri
+fattori correlati, ovvero sui processi, sulle persone e in generale
+sulla cultura dell’organizzazione.
 
 Per esempio, nel Comune di Milano, dove questo percorso verso il cloud è
 già stato iniziato, insieme ad una roadmap per migrare diversi servizi è
@@ -281,27 +287,3 @@ Sulla stessa linea, in Corte dei Conti, è stata introdotta una strategia
 di comunicazione mirata a raccontare il valore dei nuovi applicativi su
 cloud in maniera semplice e divertente tramite video e animazioni
 inviati a tutti i dipendenti con una newsletter settimanale.
-
-Il-pro
-
-.. |image0| image:: ./media/image1.png
-   :width: 6.53213in
-   :height: 1.02099in
-.. |image1| image:: ./media/image2.png
-   :width: 6.59167in
-   :height: 3.22222in
-.. |image2| image:: ./media/image3.png
-   :width: 2.80208in
-   :height: 3.51389in
-.. |image3| image:: ./media/image4.png
-   :width: 2.82292in
-   :height: 3.65278in
-.. |image4| image:: ./media/image5.png
-   :width: 3.95833in
-   :height: 3.65278in
-.. |image5| image:: ./media/image6.png
-   :width: 2.41667in
-   :height: 3.65278in
-.. |image6| image:: ./media/image7.png
-   :width: 2.32292in
-   :height: 3.65278in
