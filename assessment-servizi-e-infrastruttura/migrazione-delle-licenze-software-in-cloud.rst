@@ -22,7 +22,7 @@ Gli accordi di licenza a loro volta sono cambiati per tenere conto di
 questo panorama in evoluzione. Tramite i diritti di utilizzo secondari
 ad esempio, si consente l'uso del software in maniera non simultanea su
 un desktop e un laptop, o, con la trasformazione sempre più verso
-abbonamenti per utente, si consenteiu l'implementazione su dispositivi
+abbonamenti per utente, si consente l'implementazione su dispositivi
 illimitati.
 
 Nel mondo dei data center c'è stata un'evoluzione, per tenere conto
