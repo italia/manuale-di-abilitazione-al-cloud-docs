@@ -3,7 +3,7 @@ Cloud Enable Program
 
 .. toctree::
   :maxdepth: 3
-  :caption: Indice dei contenutiiii
+  :caption: Indice dei contenuti
 
   indice.rst
   introduzione.rst
