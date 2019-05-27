@@ -63,9 +63,9 @@ compilazione della lista degli applicativi sono:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Vi sono diverse tipologie di licenze on-premise, in particolare: 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  | **licenza perpetua**: in passato l’unica opzione disponibile era
+
+-    **licenza perpetua**: in passato l’unica opzione disponibile era
      l’acquisto di software su supporto fisico come un floppy o disco
      ottico. Avere un programma su supporto fisico rendeva facile
      installarlo su eventuali nuove macchine. Software di questo tipo
@@ -73,19 +73,19 @@ Vi sono diverse tipologie di licenze on-premise, in particolare:
      titolare la possibilità di usarlo per tutto il tempo che desidera
      senza costi aggiuntivi in base ai termini di contratto di licenza
      con l’utente finale o EULA.
-   | Questo tipo di licenza è generalmente meno comune oggi, in quanto
+     Questo tipo di licenza è generalmente meno comune oggi, in quanto
      le software house sviluppano i loro programmi con una strategia che
      favorisce un'alta frequenza di aggiornamento solitamente compresa
      nel prezzo.
 
--  | **licenza per sito**: un tipo di licenza software che consente
+-    **licenza per sito**: un tipo di licenza software che consente
      all'utente di installare un pacchetto software in più computer
      contemporaneamente, ad esempio in un particolare sito (struttura) o
      in un ente. A seconda dell'importo delle tariffe pagate, la licenza
      può essere illimitata o può limitare l'accesso simultaneo a un
      determinato numero di utenti. Il termine "sito" si intende a
      definire una limitazione sui diritti di accesso dell'utente.
-   | Al giorno d'oggi, questi tipi di licenze sono rare, ma ancora
+     Al giorno d'oggi, questi tipi di licenze sono rare, ma ancora
      utilizzate in alcuni settori. I venditori possono inserire clausole
      che consentono ai rappresentanti di visitare il sito e verificare
      che l'uso del software confermi la licenza (auditing). Una licenza
@@ -93,12 +93,12 @@ Vi sono diverse tipologie di licenze on-premise, in particolare:
      tranne che si applica a tutti i membri del “sito”. Solitamente il
      prezzo per utente diminuisce con l’aumentare degli utenti.
 
--  | **licenza nominativa**: una licenza per postazione è un modello di
+-    **licenza nominativa**: una licenza per postazione è un modello di
      licenza software basato sul numero di singoli utenti che hanno
      accesso a un servizio o prodotto digitale. Ad esempio, la licenza
      per postazione da 50 utenti permette fino a 50 utenti nominati
      individualmente di accedere al programma.
-   | Un'alternativa è la licenza utente simultanea, basata sul numero di
+     Un'alternativa è la licenza utente simultanea, basata sul numero di
      utenti simultanei, indipendentemente da quali individui stiano
      accedendo al programma. Ad esempio, in una licenza di utilizzo
      simultaneo da 50 utenti, dopo che 50 utenti sono connessi al
@@ -142,7 +142,8 @@ con la valutazione di dettaglio (vedo 3.2) per la migrazione degli
 applicativi. Esso si basa su quattro livelli di priorità come illustrato
 nel seguente grafico:
 
-|image0|
+.. figure:: media/image1.png
+   :alt: Immagine 1
 
 I software con “opportunità da cogliere” hanno una priorità maggiore
 rispetto a quelli con “rischio minimo” che a loro volta sono da
