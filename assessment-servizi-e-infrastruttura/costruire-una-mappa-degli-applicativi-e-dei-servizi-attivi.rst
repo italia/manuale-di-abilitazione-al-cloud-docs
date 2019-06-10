@@ -11,7 +11,7 @@ maggiori benefici e pongono minori criticità.
 ---------------------------------
 
 Il primo passo da compiere è stilare una lista degli applicativi
-attualmente in uso (vedi allegato “`Lista degli applicativi <https://drive.google.com/open?id=1iVswHZ22zanOSxFoQ8lSW8B1Enx9mg9gQAPVhayerNs>`”), ovvero sia
+attualmente in uso (vedi allegato `Lista degli applicativi <https://drive.google.com/open?id=1iVswHZ22zanOSxFoQ8lSW8B1Enx9mg9gQAPVhayerNs>`_), ovvero sia
 gli applicativi utilizzati abitualmente che quelli con accessi saltuari
 o legati a specifiche necessità. Sono da considerare tutti gli
 applicativi che utilizzano l’infrastruttura dell’organizzazione.
