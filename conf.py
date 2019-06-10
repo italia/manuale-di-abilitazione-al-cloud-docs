@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'Cloud Enablement Program'
+settings_project_name = 'Manuale di abilitazione al cloud'
 settings_copyright_copyleft = "CC-BY 3.0 - Agenzia per l'Italia Digitale"
 settings_editor_name = "AgID - Agenzia per l'Italia Digitale"
-settings_file_name = 'cloud-enablement-program-docs'
+settings_file_name = 'cloud-enablement-handbook'
 
 import sys
 import os
