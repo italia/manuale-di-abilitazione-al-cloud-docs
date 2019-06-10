@@ -1,4 +1,4 @@
-Cloud Enablement Handbook
+Manuale di abilitazione al cloud
 ==================================================================================
 
 .. toctree::
