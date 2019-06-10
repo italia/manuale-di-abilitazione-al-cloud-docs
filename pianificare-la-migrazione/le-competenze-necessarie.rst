@@ -154,7 +154,7 @@ dall’amministrazione come punto di partenza per la valutazione della
 propria situazione in termini di competenze per il cloud.
 
 Consigliamo alle amministrazioni di utilizzare il file creato (vedi
-allegato “Valutazione competenze”) per iniziare il proprio assessment
+allegato “`Valutazione competenze <https://drive.google.com/open?id=1_5aEEDg4TGDEJB8EM5ZQqb6XgGtCxISLRFa_-l2BscU>`_”) per iniziare il proprio assessment
 che potrà essere eseguito sia in maniera autonoma da ogni singolo
 componente del team, evidenziando così le peculiarità di ognuno, sia
 valutando le competenze come team.
