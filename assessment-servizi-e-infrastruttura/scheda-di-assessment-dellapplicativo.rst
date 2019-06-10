@@ -21,8 +21,8 @@ In particolare, gli obiettivi di questa seconda fase del processo sono:
    applicativo prioritizzato
 
 Per facilitare il raggiungimento di questi risultati, abbiamo creato una
-scheda di assessment dell’applicativo (vedi allegato “Scheda di
-assessment dell'applicativo”) che l’amministrazione può compilare
+scheda di assessment dell’applicativo (vedi allegato “`Scheda di
+assessment dell'applicativo <https://drive.google.com/open?id=1P8lcsCxEXKYk7oZVoHrS6rhNmqdPz4bHfzmsmWq4akQ>`_”) che l’amministrazione può compilare
 seguendo le istruzioni riportate di seguito (ed esplicitate anche
 direttamente sul foglio di lavoro).
 
