@@ -21,7 +21,3 @@ documento.
   
   come-iniziare/roadmap-di-una-migrazione.rst
   
-..  come-iniziare/chi-contattare.rst
-  come-iniziare/il-procurement.rst
-  
- 
