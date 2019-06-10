@@ -1,4 +1,4 @@
-2.3 Roadmap di una migrazione
+2.1 Roadmap di una migrazione
 =============================
 
 La migrazione dell’intero parco applicativo al cloud è un’operazione
