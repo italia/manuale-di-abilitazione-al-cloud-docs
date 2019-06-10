@@ -18,6 +18,7 @@ documento.
 .. toctree::
   :maxdepth: 3
   :caption: Indice dei contenuti
+  
   come-iniziare/roadmap-di-una-migrazione.rst
   
 ..  come-iniziare/chi-contattare.rst
