@@ -25,7 +25,7 @@ trasformazione:
    insieme di requisiti volti a garantire elevati standard di qualità
    per la PA
 
--  Il *Cloud Enablement Program:* il programma che abilita
+-  Il **Cloud Enablement Program**: il programma che abilita
    un’organizzazione a migrare il proprio patrimonio IT esistente
    (infrastrutture e applicazioni) utilizzando infrastrutture e servizi
    cloud all’interno del modello Cloud della PA. . Nell’ambito del
