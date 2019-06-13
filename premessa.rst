@@ -35,7 +35,7 @@ trasformazione:
    Kit (metodologie, buone pratiche e strumenti) necessari per attuare
    il Cloud Enablement Program delle PA.
 
-Questa documentazione rientra nell’ambito del framework del Cloud
+Questa documentazione rientra nell’ambito del Cloud
 Enablement Program e, in particolare, del Cloud Enablement Kit che
 contiene l’ insieme di metodi, strumenti e buone pratiche che le
 pubbliche amministrazioni possono usare per la migrazione al cloud di
