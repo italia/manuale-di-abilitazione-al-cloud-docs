@@ -1,4 +1,4 @@
-**3.2 Scheda di assessment dell’applicativo**
+3.2 Scheda di assessment dell’applicativo
 =============================================
 
 Una volta identificati gli applicativi prioritari candidati alla
@@ -50,7 +50,7 @@ migliori.
 Vediamo ora insieme le diverse sezioni che compongono la scheda di
 assessment e come compilarle.
 
-**3.2.1 Aspetti tecnologici**
+3.2.1 Aspetti tecnologici
 -----------------------------
 
 Gli aspetti tecnologici sono quelle caratteristiche che distinguono
@@ -98,7 +98,7 @@ riempire in questa sezione sono:
    esterni che dipendono dell'applicativo, ad es. i sistemi che
    consumano i dati dell'applicativo
 
-**3.2.2 Vincoli tecnologici**
+3.2.2 Vincoli tecnologici
 -----------------------------
 
 I vincoli tecnologici sono quegli aspetti tecnologici particolarmente
@@ -143,7 +143,7 @@ questa sezione sono:
    -  **internet**, se per l’applicativo l’accesso a internet è un
       requisito vincolante all'usabilità di questo applicativo
 
-**3.2.3 Dati**
+3.2.3 Dati
 --------------
 
 Ai dati è dedicata una sezione a parte in quanto rappresentano un
@@ -174,7 +174,7 @@ sezione sono:
    campo sia i nomi degli applicativi che il sottoinsieme dei dati
    trattati
 
-**3.2.4 Parti interessate**
+3.2.4 Parti interessate
 ---------------------------
 
 Le parti interessate sono tutte quelle persone e processi che, per
@@ -196,7 +196,7 @@ migrazione dell’applicativo. Il campo da riempire in questa sezione è:
    applicativo e se vi sono dei punti d'attenzione da considerare
    durante il processo di migrazione
 
-**3.2.5 Bisogni**
+3.2.5 Bisogni
 -----------------
 
 I bisogni sono quelle informazioni che identificano l’utilizzo effettivo
@@ -276,7 +276,7 @@ sono:
    definite. Considerare qui la tipologia e la numerosità delle
    evoluzioni attese per l'applicativo
 
-**3.2.6 Mercato**
+3.2.6 Mercato
 -----------------
 
 Le informazioni riguardo al mercato aiutano ad esplorare le opportunità
