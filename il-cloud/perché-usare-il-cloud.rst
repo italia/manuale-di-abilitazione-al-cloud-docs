@@ -85,7 +85,7 @@ Infine, il paradigma cloud non richiede alcun investimento a lungo
 termine sull’hardware e non comporta quello spreco di risorse
 determinato dalla sottoutilizzazione della capacità.
 
-**1.2.3 Facilità degli aggiornamenti**
+1.2.3 Facilità degli aggiornamenti
 --------------------------------------
 
 Le soluzioni IT commerciali o auto-sviluppate in locale richiedono
