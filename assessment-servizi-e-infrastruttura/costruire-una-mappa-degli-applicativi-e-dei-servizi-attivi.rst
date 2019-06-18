@@ -1,4 +1,4 @@
-**3.1 Costruire una mappa degli applicativi e dei servizi attivi**
+3.1 Costruire una mappa degli applicativi e dei servizi attivi
 ==================================================================
 
 Il primo obiettivo da raggiungere è quello di avere una visione
@@ -7,7 +7,7 @@ poterli prioritizzare ed identificare quelli da cui iniziare, o con cui
 procedere, la migrazione al cloud, ovvero quelli che ne traggono
 maggiori benefici e pongono minori criticità.
 
-**3.1.1 Lista degli applicativi**
+3.1.1 Lista degli applicativi
 ---------------------------------
 
 Il primo passo da compiere è stilare una lista degli applicativi
@@ -42,7 +42,7 @@ si ha maggiore evidenza e si integra successivamente la lista con quelli
 per i quali è necessaria un’indagine più approfondita per verificarne
 l’esistenza e l’utilizzo.
 
-**3.1.2.1 Licenze software**
+3.1.2.1 Licenze software
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nella compilazione della lista degli applicativi, risulta utile
@@ -59,7 +59,7 @@ compilazione della lista degli applicativi sono:
 
 -  data di scadenza contrattuale della licenza
 
-**3.1.2.1.1 Tipologie di licenze on-premise**
+3.1.2.1.1 Tipologie di licenze on-premise
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Vi sono diverse tipologie di licenze on-premise, in particolare: 
@@ -105,7 +105,7 @@ Vi sono diverse tipologie di licenze on-premise, in particolare:
      programma, il 51° utente viene bloccato. Quando uno dei primi 50 si
      disconnette, l’utente successivo può accedere.
 
-**3.1.2.1.2 Tipologie di licenze open source**
+3.1.2.1.2 Tipologie di licenze open source
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Vi sono diverse tipologie di licenze open source e solitamente i
@@ -118,7 +118,7 @@ Guida alle licenze Open
 Source <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/attachments/allegato-d-guida-alle-licenze-open-source.html>`__
 pubblicato da AgID.
 
-**3.1.3 Prioritizzazione degli applicativi**
+3.1.3 Prioritizzazione degli applicativi
 --------------------------------------------
 
 Come decidere ora l'ordine con cui migrare le applicazioni nel cloud? È
@@ -181,7 +181,7 @@ rischio minimo. Se necessario, si può ulteriormente raffinare dando
 priorità, tra quelli con opportunità da cogliere e rischio minimo, a
 quelli più facili da migrare.
 
-**3.1.3.1 Livello 1: opportunità da cogliere**
+3.1.3.1 Livello 1: opportunità da cogliere
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Gli applicativi che si consiglia di approfondire per primi per la
@@ -223,7 +223,7 @@ Identificare questi applicativi, primi candidati per la migrazione,
 permetterà all’amministrazione di ottenere successi rapidi che producono
 vantaggi tangibili e immediati per gli utenti e l’organizzazione stessa.
 
-**3.1.3.2 Livello 2: ridurre al minimo il rischio di migrazione**
+3.1.3.2 Livello 2: ridurre al minimo il rischio di migrazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Laddove il primo livello si concentra sulle opportunità, il secondo
@@ -278,7 +278,7 @@ applicazioni dal rischio più basso al più alto. Le applicazioni a basso
 rischio dovrebbero essere migrate per prime e le applicazioni a rischio
 più elevato dovrebbero invece essere migrate più tardi.
 
-**3.1.3.3 Livello 3: facilità di migrazione al cloud pubblico**
+3.1.3.3 Livello 3: facilità di migrazione al cloud pubblico
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Il terzo livello in questo framework ruota attorno alla facilità con cui
@@ -319,7 +319,7 @@ che a volte applicazioni di Livello 3 possano andare prima del Livello 2
 lungo il percorso di migrazione mantenendo comunque il senso logico
 della sequenza
 
-**3.1.3.4 Livello 4: altro**
+3.1.3.4 Livello 4: altro
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Il quarto ed ultimo livello di questo framework raccoglie tutti quegli
