@@ -1,4 +1,4 @@
-**1.1 Cos’è il cloud**
+1.1 Cos’è il cloud
 ======================
 
 | Il *cloud computing* (in italiano *nuvola informatica*), più
