@@ -5,7 +5,6 @@ Manuale di abilitazione al cloud
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  indice.rst
   premessa.rst
   il-cloud.rst
   come-iniziare.rst
