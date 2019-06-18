@@ -1,4 +1,4 @@
-**7. Dopo la migrazione**
+Dopo la migrazione
 =========================
 
 Una volta completata la migrazione al cloud di uno o più applicativi, è
