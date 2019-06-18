@@ -1,4 +1,4 @@
-**3.4 Migrazione delle licenze software in cloud**
+3.4 Migrazione delle licenze software in cloud
 ==================================================
 
 Le licenze sono un aspetto da considerare con attenzione nella
@@ -46,7 +46,7 @@ source nel capitolo 3.1. Di seguito parleremo delle tipologie di licenze
 cloud e di alcuni accorgimenti necessari quando si considera la
 migrazione di un applicativo sotto licenza da on-premise al cloud.
 
-**3.4.1 Tipologie di licenze cloud**
+3.4.1 Tipologie di licenze cloud
 ------------------------------------
 
 Vi sono diverse tipologie di licenze cloud:
@@ -126,7 +126,7 @@ dispositivo separatamente.
    precedentemente utilizzate on-premise siano ora utilizzate solo nel
    cloud.
 
-**3.4.2 Gestione delle licenze per la migrazione al cloud**
+3.4.2 Gestione delle licenze per la migrazione al cloud
 -----------------------------------------------------------
 
 La gestione delle licenze in una prospettiva che privilegi la migrazione
