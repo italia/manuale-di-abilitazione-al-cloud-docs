@@ -1,4 +1,4 @@
-**3. Assessment servizi e infrastruttura**
+Assessment servizi e infrastruttura
 ==========================================
 
 In questo capitolo illustriamo nel dettaglio i primi tre step del
