@@ -1,4 +1,4 @@
-**Premessa**
+Premessa
 ================
 
 La `strategia Cloud della
