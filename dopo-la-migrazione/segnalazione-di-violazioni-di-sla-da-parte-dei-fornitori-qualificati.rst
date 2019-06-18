@@ -1,4 +1,4 @@
-**7.3 Segnalazione di violazioni di SLA da parte dei fornitori qualificati**
+7.3 Segnalazione di violazioni di SLA da parte dei fornitori qualificati
 ============================================================================
 
 Gli SLA (service level agreement, ovvero accordi sul livello di un
