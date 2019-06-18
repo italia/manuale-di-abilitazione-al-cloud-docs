@@ -1,4 +1,4 @@
-**1.2 Perché usare il cloud**
+1.2 Perché usare il cloud
 =============================
 
 Il cloud rappresenta un grande cambiamento rispetto alla visione
@@ -8,7 +8,7 @@ informatica alla produttività individuale e all’archiviazione, le
 soluzioni cloud rappresentano spesso la soluzione più vantaggiosa per
 diversi motivi.
 
-**1.2.1 Riduzione dei costi**
+1.2.1 Riduzione dei costi
 -----------------------------
 
 Le applicazioni che utilizzano risorse hardware on-premise richiedono un
@@ -58,7 +58,7 @@ identificando le aree ed i componenti su cui è possibile ottenere un
 vantaggio in termini di costo una volta in cloud rispetto alla
 situazione corrente.
 
-**1.2.2 Elasticità reale**
+1.2.2 Elasticità reale
 --------------------------
 
 Le soluzioni IT on-premise, anche quando sono scalabili, hanno dei
@@ -110,7 +110,7 @@ ricade nell’ambito della gestione dell’applicativo e degli accessi alle
 piattaforme, mentre i fornitori si occupano di garantire l’aggiornamento
 delle risorse infrastrutturali e degli ambienti.
 
-**1.2.4 Riduzione complessità del supporto**
+1.2.4 Riduzione complessità del supporto
 --------------------------------------------
 
 I servizi IT tradizionali spesso dipendono dal software installato sul
@@ -135,7 +135,7 @@ come laptop, desktop e dispositivi mobili, una qualsiasi soluzione che
 riduca la quantità di lavoro necessaria a mantenere il software
 aggiornato rappresenta un gran vantaggio.
 
-**1.2.5 Riduzione delle attività manuali a basso valore aggiunto**
+1.2.5 Riduzione delle attività manuali a basso valore aggiunto
 ------------------------------------------------------------------
 
 I data center on-premise richiedono in genere un impegno notevole
@@ -163,7 +163,7 @@ accelerare i processi di delivery, riducendo al minimo la possibilità di
 errori o configurazioni errate aumentando il controllo sui processi. Per
 un approfondimento su questo tema si rimanda al capitolo 5.3.9.
 
-**1.2.6 Adeguamento normativo in termini di sicurezza e privacy**
+1.2.6 Adeguamento normativo in termini di sicurezza e privacy
 -----------------------------------------------------------------
 
 Amministrare le infrastrutture IT comporta responsabilità non solo di
@@ -210,7 +210,7 @@ fase di progettazione dei servizi, agisca trasversalmente su tutte le
 aree di interesse, e che sia costantemente aggiornato rispetto allo
 stato dell’arte delle principali misure di sicurezza.
 
-**1.2.7 Miglioramento dei servizi**
+1.2.7 Miglioramento dei servizi
 -----------------------------------
 
 | Sfruttando le potenzialità del cloud, le pubbliche amministrazioni
