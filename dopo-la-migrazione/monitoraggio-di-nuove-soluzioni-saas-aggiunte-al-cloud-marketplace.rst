@@ -1,4 +1,4 @@
-**7.2 Monitoraggio di nuove soluzioni SaaS aggiunte al Cloud Marketplace**
+7.2 Monitoraggio di nuove soluzioni SaaS aggiunte al Cloud Marketplace
 ==========================================================================
 
 Come illustrato più volte in questo documento, `il principio “Cloud
