@@ -1,4 +1,4 @@
-**7.4 Condividere l’esperienza di migrazione al cloud**
+7.4 Condividere l’esperienza di migrazione al cloud
 =======================================================
 
 Come illustrato nel capitolo 2, si prevede che l’amministrazione sia
