@@ -126,7 +126,7 @@ ottimizzare regolarmente i costi del cloud.
    budget? Le cifre di bilancio sono realistiche? Vi è necessità di
    rivederle?
 
-**7.1.1.4 Redditività e flusso di cassa**
+7.1.1.4 Redditività e flusso di cassa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 L'IT è solo uno dei numerosi fattori che possono influire sulla
@@ -145,14 +145,14 @@ dell’amministrazione.
 -  **risparmi**: le applicazioni in cloud stanno facendo risparmiare
    soldi all’amministrazione?
 
-**7.1.2 Indicatori di impatto**
+7.1.2 Indicatori di impatto
 -------------------------------
 
 Oltre agli indicatori di risultato, vanno anche considerati i benefici
 più ampi del cloud, come l'agilità e le migliori prestazioni delle
 applicazioni, che forniscono valore a lungo termine all’amministrazione.
 
-**7.1.2.1 Governance**
+7.1.2.1 Governance
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Il cloud è un ambiente complesso e dinamico. È incredibilmente facile
@@ -178,7 +178,7 @@ sicurezza.
 -  **conformità**: il cloud soddisfa gli obiettivi di conformità? È
    possibile ospitare carichi di lavoro che trattano dati sensibili?
 
-**7.1.2.2 Agilità e prestazioni**
+7.1.2.2 Agilità e prestazioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Un miglioramento del servizio IT e della sua gestione non solo
@@ -203,7 +203,7 @@ e ha compreso il valore del cloud.
 
 .. _automazione-1:
 
-**7.1.2.3 Automazione**
+7.1.2.3 Automazione
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 I processi automatizzati riducono il carico di lavoro manuale sulla
@@ -218,7 +218,7 @@ carico di lavoro.
    mantenere le risorse attive durante le ore non di punta? È possibile
    sfruttare l'automazione per eseguire automaticamente queste funzioni?
 
-**7.1.2.4 Soddisfazione degli utenti dei servizi**
+7.1.2.4 Soddisfazione degli utenti dei servizi
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Modernizzando il reparto IT, rendendo efficienti i costi e rinnovando le
