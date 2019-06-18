@@ -1,4 +1,4 @@
-2. Come iniziare
+Come iniziare
 ================
 
 Iniziare è spesso lo scoglio più grande da superare quando si decide di
