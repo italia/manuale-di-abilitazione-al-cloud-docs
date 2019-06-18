@@ -1,4 +1,4 @@
-**3.3 Analisi costi-benefici**
+3.3 Analisi costi-benefici
 ==============================
 
 Determinare costi e benefici del cloud richiede un approccio strategico
@@ -68,7 +68,7 @@ approfondire le strategie di migrazione). Ogni alternativa dovrebbe
 essere analizzata in dettaglio per decidere il modello cloud migliore in
 base al contesto e alle circostanze in cui l’amministrazione si trova.
 
-**3.3.1 Verifica dei costi attuali dell’infrastruttura**
+3.3.1 Verifica dei costi attuali dell’infrastruttura
 --------------------------------------------------------
 
 Per calcolare i costi attuali dell’infrastruttura è necessario avere un
@@ -141,7 +141,7 @@ possono essere difficili da stimare, ma sono molto importanti da
 considerare, in quanto possono rappresentare una fetta importante dei
 costi complessivi dell’IT.
 
-**3.3.2 Stima dei costi dell’infrastruttura cloud**
+3.3.2 Stima dei costi dell’infrastruttura cloud
 ---------------------------------------------------
 
 Dopo aver determinato i costi attuali dell'infrastruttura on-premise, è
@@ -200,7 +200,7 @@ quindi possibile scaricare un rapporto completo che fornisce dettagliate
 ripartizioni dei costi, le ipotesi e la metodologia utilizzata nel
 modello di costo e le domande frequenti.
 
-**3.3.3 Stima dei costi di migrazione al cloud**
+3.3.3 Stima dei costi di migrazione al cloud
 ------------------------------------------------
 
 Il passo successivo è la stima dei costi coinvolti nell'esecuzione della
@@ -274,7 +274,7 @@ amministrazioni. Questi centri saranno il punto di riferimento per le
 pubbliche amministrazioni che si apprestano ad iniziare il proprio
 percorso verso il cloud.
 
-**3.3.4 Stima dei costi post-migrazione**
+3.3.4 Stima dei costi post-migrazione
 -----------------------------------------
 
 Che cosa si deve pagare dopo aver completato la migrazione al cloud? I
@@ -290,7 +290,7 @@ Per determinare un accurato budget post-migrazione, si devono dunque
 prevedere costi come: integrazione continua e test di app, formazione,
 manodopera, sicurezza e conformità, amministrazione e altro.
 
-**3.3.5 Valutazione dei costi rispetto ai benefici tangibili ed intangibili**
+3.3.5 Valutazione dei costi rispetto ai benefici tangibili ed intangibili
 -----------------------------------------------------------------------------
 
 Dopo aver calcolato tutti i costi, si potrebbe arrivare ad un numero
@@ -315,7 +315,7 @@ Alcuni di questi benefici sono già stati trattati nel capitolo 1.2, ma
 approfondiamo qui quelli da tenere in particolare considerazione durante
 l’esecuzione di un’analisi costi-benefici.
 
-**3.3.5.1 Differenziale dei costi sul cloud rispetto ai costi on-premise**
+3.3.5.1 Differenziale dei costi sul cloud rispetto ai costi on-premise
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Confrontando i valori dei costi sul cloud e dei costi on-premise sul
@@ -328,7 +328,7 @@ amministrative (gare, impegni di spesa, liquidazioni fatture, ecc.),
 dalla riduzione dei costi di energia elettrica e tutte le altre voci
 impattate dalla migrazione.
 
-**3.3.5.2 Dimensionamento reale o elasticità reale**
+3.3.5.2 Dimensionamento reale o elasticità reale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Le soluzioni on premise sono tipicamente dimensionate rispetto alla
@@ -355,7 +355,7 @@ corretto dimensionamento della soluzione in cloud. Per questo tipo di
 analisi consultare metriche di utilizzo o utilizzare strumenti di
 mercato che forniscono questo tipo di analisi.
 
-**3.3.5.3 Riduzione dei rischi di disservizio operativo, perdita dati e del rischio reputazionale**
+3.3.5.3 Riduzione dei rischi di disservizio operativo, perdita dati e del rischio reputazionale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Gli applicativi in cloud godono di alta disponibilità, ovvero la
@@ -380,7 +380,7 @@ ed il costo ad esso associato, anche se di difficile quantificazione
 economica ma tipicamente elevato nel tempo, è quindi anch’esso ridotto
 significativamente.
 
-**3.3.5.4 Semplificazione del disaster recovery**
+3.3.5.4 Semplificazione del disaster recovery
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 L’allestimento di un sito di disaster recovery in cloud è molto semplice
@@ -388,7 +388,7 @@ ed i suoi costi sono legati al suo utilizzo effettivo. In base
 all’architettura dell’applicativo in cloud, ridondato su più data
 center, tale sistema potrebbe diventare implicito.
 
-**3.3.5.5 Disponibilità di aggiornamenti, bugfix e miglioramenti più rapida**
+3.3.5.5 Disponibilità di aggiornamenti, bugfix e miglioramenti più rapida
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Il passaggio in cloud permette aggiornamenti dell’applicativo più rapidi
@@ -400,7 +400,7 @@ Può essere utile valutare anche l’impatto economico di problemi
 verificatisi in passato a causa di mancata tempestività nella
 risoluzione o opportunità non colte in passato per il medesimo motivo.
 
-**3.3.5.6 Adeguamenti normativi su sicurezza e privacy**
+3.3.5.6 Adeguamenti normativi su sicurezza e privacy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Amministrare le infrastrutture IT comporta responsabilità di sicurezza e
@@ -421,7 +421,7 @@ in quanto soluzioni applicate in modo totalmente trasparente dal cloud
 provider, senza dover investire soluzioni ad hoc e nelle competenze
 necessarie per capire di quello di cui si necessita.
 
-**3.3.5.7 Miglioramento del servizio (percezione dell’utente finale)**
+3.3.5.7 Miglioramento del servizio (percezione dell’utente finale)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Sfruttando le potenzialità del cloud, le pubbliche amministrazioni hanno
