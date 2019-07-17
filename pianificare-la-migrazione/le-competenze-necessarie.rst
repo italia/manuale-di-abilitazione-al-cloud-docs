@@ -111,7 +111,7 @@ Dreyfus <https://apps.dtic.mil/dtic/tr/fulltext/u2/a084551.pdf>`__):
 
 Per avere una visione d’insieme e immediata delle competenze con i
 diversi livelli di maturità, si può poi costruire un `diagramma di
-Kiviat <https://apps.dtic.mil/dtic/tr/fulltext/u2/a084551.pdf>`__
+Kiviat <https://docs.google.com/presentation/d/1De60ZAKkrBHary4iTi_FXSapWEnoG-AbAkS1AGV7EH8/edit#slide=id.p9>`__
 (conosciuto anche come grafico ragnatela o spider chart). Con un grafico
 di questo tipo si riescono a mostrare in un’unica rappresentazione:
 
