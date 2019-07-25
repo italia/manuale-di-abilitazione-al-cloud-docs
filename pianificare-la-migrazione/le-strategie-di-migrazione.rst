@@ -247,16 +247,13 @@ non è possibile l’acquisto di licenze perpetue ma sono diffuse
 sottoscrizioni con cadenza mensile o annuale basate su utilizzatori o
 consumo effettivo.
 
-Esempi di migrazione a servizi SaaS sono:
+Esempi di servizi che è possibile migrare su SaaS:
 
--  sostituzione del sistema di posta elettronica interno all’ente con
-   Google Gmail o Microsoft Outlook 365
+-  Posta elettronica
 
--  sostituzione di Windows File Server con Google Drive, Dropbox o
-   Microsoft One Drive per la condivisione dei file
+-  File Server per la condivisione dei file
 
--  adozione della soluzione SAP in cloud al posto della versione
-   on-premise
+-  ERP
 
 **Benefici**
 
@@ -286,7 +283,7 @@ Esempi di migrazione a servizi SaaS sono:
    differenti
 
 -  integrazione/riconfigurazione dei servizi SaaS con servizi on-premise
-   (es. Active Directory)
+   (es. autentica)
 
 -  assenza di controllo in caso di down
 
@@ -310,25 +307,23 @@ precedenti.
 Esempi di categorie di software con opzioni SaaS disponibili sul
 catalogo dei servizi Cloud per la PA qualificati sono:
 
--  CMS, Content Management Systems (amicaPA, …)
+-  CMS, Content Management Systems
 
--  ERP, Enterprise Resource Planning (Microsoft Dynamics 365, …)
+-  ERP, Enterprise Resource Planning
 
--  LMS, Learning Management System (Oracle Learning Cloud, …)
+-  LMS, Learning Management System
 
--  Project Management (Oracle Project Management Cloud, …)
+-  Project Management
 
--  Email Management Software (es. Office 365, ...)
+-  Email Management Software
 
--  File Sharing (Microsoft Azure Active Directory, …)
+-  File Sharing
 
--  Collaborazione e Produttività (Microsoft Office 365 (Word, Excel,
-   Powerpoint), GecoDoc, …)
+-  Collaborazione e Produttività
 
--  Software amministrativi (Sicr@Web, hyperSIC Cloud, ProcessFrame QAS,
-   NUVOLAcomuni, Civilia Next, ...)
+-  Software amministrativi
 
--  Gestione tributi (Suite Tributi PLUS, INFO-TRIBUTI WEB, ...)
+-  Gestione tributi
 
 **Caratteristiche peculiari sulla scheda di assessment
 dell'applicativo**
@@ -348,7 +343,7 @@ corrispondente versione cloud-based realizzata dal medesimo produttore o
 con soluzioni equivalenti o migliorative proposte da nuovi soggetti.
 
 La verifica di tali alternative può essere fatta sul catalogo dei
-servizi cloud qualificati da AGID (Cloud Marketplace), la piattaforma
+servizi cloud qualificati da AGID `(Cloud Marketplace) <https://cloud.italia.it/marketplace>`__, la piattaforma
 che espone i servizi e le infrastrutture qualificate.
 
 All'interno del Cloud Marketplace è possibile ricercare i servizi e
