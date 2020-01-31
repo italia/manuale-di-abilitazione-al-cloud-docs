@@ -156,4 +156,4 @@ le esigenze della pubbliche amministrazioni. Il Cloud della PA si
 compone di infrastrutture e servizi, qualificati da AGID sulla base di
 un insieme minimo di requisiti, che possono essere confrontati e
 consultati sul `Cloud
-Marketplace <https://cloud.italia.it/marketplace/supplier/market/index.html>`__.
+Marketplace <https://cloud.italia.it/marketplace/>`__.
