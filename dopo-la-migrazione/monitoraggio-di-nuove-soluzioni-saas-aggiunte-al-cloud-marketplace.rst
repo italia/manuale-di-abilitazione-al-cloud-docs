@@ -21,7 +21,7 @@ possono godere dei benefici del cloud da subito con ridotti costi
 iniziali.
 
 All'interno del `Cloud
-Marketplace <https://cloud.italia.it/marketplace/supplier/market/index_SaaS.html>`__
+Marketplace <https://cloud.italia.it/marketplace/>`__
 è possibile ricercare i servizi SaaS qualificati e visualizzarne la
 scheda tecnica che mette in evidenza le caratteristiche tecniche, il
 modello di costo e i livelli di servizio dichiarati dal fornitore in
