@@ -292,7 +292,7 @@ Nel caso di strategia di migrazione re-purchase, ovvero nel caso di
 acquisto di servizi SaaS, l’interoperabilità è un criterio che deve
 essere preso in considerazione per la scelta della soluzione più adatta.
 Tutti i servizi presenti sul `cloud
-Marketplace <https://cloud.italia.it/marketplace/supplier/market/index_SaaS.html>`__
+Marketplace <https://cloud.italia.it/marketplace/>`__
 di AgID, la piattaforma che espone i servizi e le infrastrutture
 qualificate, soddisfano il criterio di interoperabilità con altri
 servizi e infrastrutture cloud dello stesso tipo mediante l’utilizzo di
