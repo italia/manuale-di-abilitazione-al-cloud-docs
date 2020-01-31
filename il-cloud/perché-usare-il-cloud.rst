@@ -183,7 +183,7 @@ alla protezione dei dati (che possono essere criptati con i più alti
 livelli di sicurezza del mercato), dell’applicazione e dell’
 infrastruttura da minacce potenziali. I cloud service provider (CSP)
 qualificati da AGID e consultabili sul `Cloud
-Marketplace <https://cloud.italia.it/marketplace/supplier/market/index.html>`__
+Marketplace <https://cloud.italia.it/marketplace/>`__
 hanno infrastrutture e servizi sviluppati secondo criteri di
 affidabilità e sicurezza considerati necessari per i servizi digitali
 della PA. Ad esempio, i data center dei CSP hanno tutti la
@@ -234,7 +234,7 @@ più adeguati alle necessità di interoperabilità e comunicazione tra
 diversi servizi (e tra le rispettive basi di dati). Le soluzioni SaaS
 dei cloud service provider (CSP) qualificati da AGID e consultabili sul
 `Cloud
-Marketplace <https://cloud.italia.it/marketplace/supplier/market/index.html>`__,
+Marketplace <https://cloud.italia.it/marketplace/>`__,
 ad esempio, offrono tutte uno strato di interoperabilità fruibile
 tramite API. Questo permette di avere maggiore flessibilità nel provare
 nuovi servizi o apportare modifiche.
