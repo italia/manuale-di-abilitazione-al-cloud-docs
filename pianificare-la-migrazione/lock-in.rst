@@ -35,7 +35,7 @@ possono essere molteplici e di diversa natura. Troviamo costi di natura:
 -  **tecnologica**: come ad esempio la migrazione dei dati creati fino a
    oggi dal vecchio al nuovo fornitore
 
--  **economica**: come ad esempio i costi da pagare per eseguire
+-  **operativa**: come ad esempio i costi da pagare per eseguire
    l’operazione di migrazione dei dati di cui sopra
 
 Nell’ ambito dei fornitori di soluzioni tecnologiche ci sono diverse
