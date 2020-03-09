@@ -1,4 +1,4 @@
-Il Cloud
+1. Il Cloud
 ===============
 
 L’introduzione del paradigma cloud nelle pubbliche amministrazioni
