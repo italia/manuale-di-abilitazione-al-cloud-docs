@@ -288,16 +288,16 @@ completamento della migrazione iniziale.
 
 In questa voce ricadono, tra gli altri, i costi di:
 
-* evoluzione delle operation, come l'aumento dello spazio dedicato
+- evoluzione delle operation, come l'aumento dello spazio dedicato
   al monitoraggio delle risorse, l'acquisto di nuovi servizi
   necessari alla crescita della piattaforma
   o degli strumenti di CI/CD;
-* gestione delle pratiche amministrative e legali per assicurare
+- gestione delle pratiche amministrative e legali per assicurare
   il rinnovo dei contratti
   o la conformità alle ultime normative sulla data protection;
-* monitoraggio dei livelli di servizio concordati
+- monitoraggio dei livelli di servizio concordati
   e delle soluzioni di sicurezza adottate dal CSP;
-* formazione necessaria far operare il personale su 
+- formazione necessaria far operare il personale su 
   infrastrutture più moderne e articolate.
 
   
