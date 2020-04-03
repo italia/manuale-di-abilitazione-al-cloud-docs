@@ -297,7 +297,7 @@ In questa voce ricadono, tra gli altri, i costi di:
   o la conformità alle ultime normative sulla data protection;
 - monitoraggio dei livelli di servizio concordati
   e delle soluzioni di sicurezza adottate dal CSP;
-- formazione necessaria far operare il personale su 
+- formazione necessaria per far operare il personale su 
   infrastrutture più moderne e articolate.
 
   
