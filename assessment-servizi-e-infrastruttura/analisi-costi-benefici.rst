@@ -286,10 +286,21 @@ indiretti necessari per mantenere e migliorare il nuovo ambiente cloud,
 in quanto molti di questi continueranno a essere pagati anche dopo il
 completamento della migrazione iniziale.
 
-Per determinare un accurato budget post-migrazione, si devono dunque
-prevedere costi come: integrazione continua e test di app, formazione,
-manodopera, sicurezza e conformità, amministrazione e altro.
+In questa voce ricadono, tra gli altri, i costi di:
 
+- evoluzione delle operation, come l'aumento dello spazio dedicato
+  al monitoraggio delle risorse, l'acquisto di nuovi servizi
+  necessari alla crescita della piattaforma
+  o degli strumenti di CI/CD;
+- gestione delle pratiche amministrative e legali per assicurare
+  il rinnovo dei contratti
+  o la conformità alle ultime normative sulla data protection;
+- monitoraggio dei livelli di servizio concordati
+  e delle soluzioni di sicurezza adottate dal CSP;
+- formazione necessaria per far operare il personale su 
+  infrastrutture più moderne e articolate.
+
+  
 3.3.5 Valutazione dei costi rispetto ai benefici tangibili ed intangibili
 -----------------------------------------------------------------------------
 
