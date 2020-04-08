@@ -1,14 +1,13 @@
 3.3 Analisi costi-benefici
 ==============================
 
-Determinare costi e benefici del cloud richiede un approccio strategico
-ed olistico, ed è quindi importante comprendere e tenere in
-considerazione tutti i fattori diretti ed indiretti che fanno parte di
-una migrazione al cloud.
+Determinare costi e benefici del cloud richiede un approccio sistematico
+che tenga in considerazione tutti i fattori diretti ed indiretti che impattano
+sulla migrazione.
 
 Per un’analisi efficace è opportuno seguire questi passi:
 
-1. definire il periodo temporale su cui calcolare il ritorno
+1. definizione del periodo temporale su cui calcolare il ritorno
    sull’investimento (tipicamente 5 anni)
 
 2. verifica dei costi attuali dell’infrastruttura e loro proiezione sul
@@ -17,17 +16,17 @@ Per un’analisi efficace è opportuno seguire questi passi:
 3. stima dei costi dell’infrastruttura cloud e loro proiezione sul
    periodo temporale
 
-4. Stima dei costi di migrazione
+4. stima dei costi di migrazione
 
-5. Stima dei costi di post-migrazione
+5. stima dei costi di post-migrazione
 
-6. Valutazione dei costi rispetto ai benefici tangibili ed intangibili
+6. valutazione dei costi rispetto ai benefici tangibili ed intangibili
 
 Calcolare il costo totale di un servizio IT e compararlo con il
 potenziale ritorno economico di una migrazione al cloud costituisce un
-compito arduo, e l’analisi dei costi sul cloud computing non fa
-eccezione come livello di difficoltà. Un'analisi dettagliata dei
-benefici del cloud computing deve includere valutazioni a breve, medio e
+compito arduo, come lo è l’analisi dei costi sul cloud computing.
+Un'analisi dettagliata dei
+benefici di una migrazione deve includere valutazioni a breve, medio e
 lungo termine oltre ai costi di terminazione. A questo riguardo, ci sono
 due indicatori chiave da considerare:
 
@@ -38,7 +37,7 @@ Costi di terminazione
 intangibili) - TCO) / TCO
 
 I costi nascosti che le organizzazioni potrebbero avere difficoltà a
-rilevare in anticipo nello spostarsi ad un servizio cloud includono:
+rilevare in anticipo includono:
 
 -  il costo per un cambio di provider dovuto ad una variazione
    regolatoria o di linea di condotta: per calcolare gli investimenti
@@ -49,9 +48,7 @@ rilevare in anticipo nello spostarsi ad un servizio cloud includono:
    risorse IT necessarie per compiere questo lavoro
 
 -  le spese inaspettate dovute all’iniziale migrazione di sistemi:
-   migrare verso applicazioni e servizi cloud include anche un numero di
-   differenti costi che devono essere presi in considerazione. Le
-   amministrazioni pubbliche o le software house, infatti, dovranno
+   le amministrazioni pubbliche o le software house, infatti, possono dover
    riscrivere le applicazioni per operare in un ambiente virtualizzato e
    riformattare i dati per adattarli ai formati del SaaS del fornitore
 
@@ -59,6 +56,10 @@ rilevare in anticipo nello spostarsi ad un servizio cloud includono:
    dovuti al fatto che l’amministrazione non riesce a svincolarsi
    facilmente da una scelta tecnologica precedentemente effettuata (vedi
    capitolo 4.3)
+   o debba modificare gli applicativi perché i cloud provider dismette
+   o modifica le feature esposte dal servizio acquistato
+
+
 
 In generale, è importante considerare a livello economico le diverse
 opzioni di migrazione al cloud che si possono avere in base alle
@@ -71,23 +72,18 @@ base al contesto e alle circostanze in cui l’amministrazione si trova.
 3.3.1 Verifica dei costi attuali dell’infrastruttura
 --------------------------------------------------------
 
-Per calcolare i costi attuali dell’infrastruttura è necessario avere un
-approccio olistico e considerare il costo complessivo di utilizzare e
-manutenere la soluzione on-premise nel tempo, e non considerare
-solamente quanto si paga per l’infrastruttura. Inoltre, questo calcolo
-deve includere sia i costi diretti che quelli indiretti.
+Per calcolare i costi attuali dell’infrastruttura on-premise è necessario
+considerare i suoi costi di utilizzo e manutezione nel tempo, che includono
+i costi diretti ed indiretti.
 
-I **costi diretti** sono relativamente semplici da calcolare, in quanto
-sono riportati direttamente a bilancio, e possono essere separati in due
+I **costi diretti** sono solitamente riportati nel bilancio, e possono essere separati in due
 gruppi:
 
--  un primo gruppo, che comprende i costi legati ad hardware e software:
-   quanto si paga (o si è pagato) per i server fisici, le licenze
+-  i costi di hardware e software, solitamente documentati in fatture e pagamenti:
+   le spese per i server fisici, le licenze
    software, contratti di manutenzione, le garanzie, le forniture, i
-   materiali, i pezzi di ricambio ed il resto. Tutti questi costi devono
-   essere pienamente documentati e vi si può accedere attraverso le
-   fatture, gli ordini o i pagamenti conservati in contabilità. Si deve
-   anche comprendere quanta banda, storage, e capacità del database si
+   materiali, i pezzi di ricambio ed il resto.
+   A questo si aggiungono quanta banda, storage, e capacità del database si
    consuma e/o dettagli infrastrutturali come il numero di server, i
    tipi di database e storage per calcolare la stima dei costi
    infrastrutturali in cloud. Alcuni esempi più specifici sono:
@@ -108,15 +104,13 @@ gruppi:
 
    -  disaster recovery
 
--  un secondo gruppo, che comprende invece i costi operativi, di cui
-   esempi specifici sono:
+-  i costi operativi, che includono:
 
    -  costo del lavoro per la manutenzione dei server, database ed altre
       tecnologie
 
-   -  costi di manutenzione delle strutture che ospitano l’hardware,
-      come i beni immobiliari, il personale ed altri costi relativi alle
-      strutture
+   -  costi di manutenzione delle strutture di hosting,
+      come gli immobili ed il personale necessario alla loro gestione
 
    -  costi di manutenzione infrastruttura di alimentazione (gruppi
       continuità, generatori, quadri comandi, ecc.) e di raffreddamento
@@ -131,8 +125,9 @@ gruppi:
 
 I **costi indiretti**, benché molto più difficili da calcolare, sono
 importanti altrettanto quanto i costi diretti, in quanto possono
-rappresentare una fetta importante dei costi complessivi dell’IT. Il
-principale costo indiretto è la perdita di produttività degli impiegati
+rappresentare una fetta importante dei costi complessivi dell’IT.
+
+Il principale costo indiretto è la perdita di produttività degli impiegati
 e degli utenti se l’infrastruttura IT non è disponibile. Per calcolare
 questi costi, si possono analizzare i file di log per determinare quanto
 di frequente i server hanno indisponibilità e per quanto tempo e
