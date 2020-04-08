@@ -51,12 +51,12 @@ migrazione, fornendo per ciascuna di esse:
 
 -  indicazione dei campi specifici e dei loro valori all’interno della
    scheda di assessment (vedi capitolo 3.2), che identificano la
-   strategia come applicabile per un determinato applicativo
+   strategia come applicabile ad un determinato applicativo
 
-È infine importante reiterare il concetto che un applicativo spesso avrà
-più di una strategia di migrazione applicabile. L’obiettivo di questa
-fase è di identificare lo spettro di strategie di migrazioni possibili
-per l’applicativo in analisi. La scelta finale su quale strategia
+È infine importante ricordare che per ogni applicativo spesso
+è possibile individuare più di una strategia di migrazione: l’obiettivo di questa
+fase è di identificare lo spettro delle strategie possibili.
+La scelta finale su quale strategia
 utilizzare dipenderà da diversi fattori quali la capacità di
 investimento sul processo, il valore generato, le tempistiche, le
 competenze e tutte quelle considerazioni da fare negli step successivi
