@@ -56,6 +56,10 @@ rilevare in anticipo includono:
    dovuti al fatto che l’amministrazione non riesce a svincolarsi
    facilmente da una scelta tecnologica precedentemente effettuata (vedi
    capitolo 4.3)
+   o debba modificare gli applicativi perché i cloud provider dismette
+   o modifica le feature esposte dal servizio acquistato
+
+
 
 In generale, è importante considerare a livello economico le diverse
 opzioni di migrazione al cloud che si possono avere in base alle
