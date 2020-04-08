@@ -72,23 +72,18 @@ base al contesto e alle circostanze in cui l’amministrazione si trova.
 3.3.1 Verifica dei costi attuali dell’infrastruttura
 --------------------------------------------------------
 
-Per calcolare i costi attuali dell’infrastruttura è necessario avere un
-approccio olistico e considerare il costo complessivo di utilizzare e
-manutenere la soluzione on-premise nel tempo, e non considerare
-solamente quanto si paga per l’infrastruttura. Inoltre, questo calcolo
-deve includere sia i costi diretti che quelli indiretti.
+Per calcolare i costi attuali dell’infrastruttura on-premise è necessario
+considerare i suoi costi di utilizzo e manutezione nel tempo, che includono
+i costi diretti ed indiretti.
 
-I **costi diretti** sono relativamente semplici da calcolare, in quanto
-sono riportati direttamente a bilancio, e possono essere separati in due
+I **costi diretti** sono solitamente riportati nel bilancio, e possono essere separati in due
 gruppi:
 
--  un primo gruppo, che comprende i costi legati ad hardware e software:
-   quanto si paga (o si è pagato) per i server fisici, le licenze
+-  i costi di hardware e software, solitamente documentati in fatture e pagamenti:
+   le spese per i server fisici, le licenze
    software, contratti di manutenzione, le garanzie, le forniture, i
-   materiali, i pezzi di ricambio ed il resto. Tutti questi costi devono
-   essere pienamente documentati e vi si può accedere attraverso le
-   fatture, gli ordini o i pagamenti conservati in contabilità. Si deve
-   anche comprendere quanta banda, storage, e capacità del database si
+   materiali, i pezzi di ricambio ed il resto.
+   A questo si aggiungono quanta banda, storage, e capacità del database si
    consuma e/o dettagli infrastrutturali come il numero di server, i
    tipi di database e storage per calcolare la stima dei costi
    infrastrutturali in cloud. Alcuni esempi più specifici sono:
@@ -109,15 +104,13 @@ gruppi:
 
    -  disaster recovery
 
--  un secondo gruppo, che comprende invece i costi operativi, di cui
-   esempi specifici sono:
+-  i costi operativi, che includono:
 
    -  costo del lavoro per la manutenzione dei server, database ed altre
       tecnologie
 
-   -  costi di manutenzione delle strutture che ospitano l’hardware,
-      come i beni immobiliari, il personale ed altri costi relativi alle
-      strutture
+   -  costi di manutenzione delle strutture di hosting,
+      come gli immobili ed il personale necessario alla loro gestione
 
    -  costi di manutenzione infrastruttura di alimentazione (gruppi
       continuità, generatori, quadri comandi, ecc.) e di raffreddamento
@@ -132,8 +125,9 @@ gruppi:
 
 I **costi indiretti**, benché molto più difficili da calcolare, sono
 importanti altrettanto quanto i costi diretti, in quanto possono
-rappresentare una fetta importante dei costi complessivi dell’IT. Il
-principale costo indiretto è la perdita di produttività degli impiegati
+rappresentare una fetta importante dei costi complessivi dell’IT.
+
+Il principale costo indiretto è la perdita di produttività degli impiegati
 e degli utenti se l’infrastruttura IT non è disponibile. Per calcolare
 questi costi, si possono analizzare i file di log per determinare quanto
 di frequente i server hanno indisponibilità e per quanto tempo e
