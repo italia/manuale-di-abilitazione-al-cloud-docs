@@ -24,9 +24,9 @@ Per un’analisi efficace è opportuno seguire questi passi:
 
 Calcolare il costo totale di un servizio IT e compararlo con il
 potenziale ritorno economico di una migrazione al cloud costituisce un
-compito arduo, e l’analisi dei costi sul cloud computing non fa
-eccezione come livello di difficoltà. Un'analisi dettagliata dei
-benefici del cloud computing deve includere valutazioni a breve, medio e
+compito arduo, come lo è l’analisi dei costi sul cloud computing.
+Un'analisi dettagliata dei
+benefici di una migrazione deve includere valutazioni a breve, medio e
 lungo termine oltre ai costi di terminazione. A questo riguardo, ci sono
 due indicatori chiave da considerare:
 
@@ -37,7 +37,7 @@ Costi di terminazione
 intangibili) - TCO) / TCO
 
 I costi nascosti che le organizzazioni potrebbero avere difficoltà a
-rilevare in anticipo nello spostarsi ad un servizio cloud includono:
+rilevare in anticipo includono:
 
 -  il costo per un cambio di provider dovuto ad una variazione
    regolatoria o di linea di condotta: per calcolare gli investimenti
@@ -48,9 +48,7 @@ rilevare in anticipo nello spostarsi ad un servizio cloud includono:
    risorse IT necessarie per compiere questo lavoro
 
 -  le spese inaspettate dovute all’iniziale migrazione di sistemi:
-   migrare verso applicazioni e servizi cloud include anche un numero di
-   differenti costi che devono essere presi in considerazione. Le
-   amministrazioni pubbliche o le software house, infatti, dovranno
+   le amministrazioni pubbliche o le software house, infatti, possono dover
    riscrivere le applicazioni per operare in un ambiente virtualizzato e
    riformattare i dati per adattarli ai formati del SaaS del fornitore
 
