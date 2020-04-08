@@ -16,22 +16,22 @@ cloud sono note come le 6R:
 
 -  Re-architect o Rifattorizzazione/Creazione di una nuova architettura
 
-Ogni strategia si differenzia dalle altre per livello di valore che si
-può ottenere e per risorse necessarie alla sua realizzazione. É quindi
+Ogni strategia si differenzia dalle altre per valore generato
+e per risorse necessarie alla sua realizzazione. É quindi
 necessario identificare le strategie applicabili alla migrazione di un
 applicativo in base al livello di ambizione cui si aspira ed alle
-effettive risorse che si possono utilizzare: non esiste la strategia
-corretta ma il giusto bilanciamento di queste due componenti in base al
+effettive risorse che si possono utilizzare: non esiste *la strategia
+corretta* ma il giusto bilanciamento di queste due componenti in base al
 contesto in cui si opera.
 
 .. figure:: media/image9.png
    :alt: immagine 9
 
-Il livello di valore che si può ottenere da una migrazione può essere
+Il valore generato da una migrazione può essere
 espresso in termini di risparmio sui costi dell’infrastruttura e della
 sua gestione, agilità nelle operazioni di configurazione dei servizi,
-velocità di approvvigionamento, tempestività di adattamento rispetto
-alle variazioni dei bisogni reali del servizio (scalabilità delle
+velocità di approvvigionamento, tempestività di adattamento
+al variare dei bisogni reali del servizio (scalabilità delle
 risorse in base al traffico, dimensionamento in base al numero di
 operatori effettivi o al consumo necessario per le esigenze di
 business).
