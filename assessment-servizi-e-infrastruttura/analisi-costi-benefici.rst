@@ -1,14 +1,13 @@
 3.3 Analisi costi-benefici
 ==============================
 
-Determinare costi e benefici del cloud richiede un approccio strategico
-ed olistico, ed è quindi importante comprendere e tenere in
-considerazione tutti i fattori diretti ed indiretti che fanno parte di
-una migrazione al cloud.
+Determinare costi e benefici del cloud richiede un approccio sistematico
+che tenga in considerazione tutti i fattori diretti ed indiretti che impattano
+sulla migrazione.
 
 Per un’analisi efficace è opportuno seguire questi passi:
 
-1. definire il periodo temporale su cui calcolare il ritorno
+1. definizione del periodo temporale su cui calcolare il ritorno
    sull’investimento (tipicamente 5 anni)
 
 2. verifica dei costi attuali dell’infrastruttura e loro proiezione sul
@@ -17,11 +16,11 @@ Per un’analisi efficace è opportuno seguire questi passi:
 3. stima dei costi dell’infrastruttura cloud e loro proiezione sul
    periodo temporale
 
-4. Stima dei costi di migrazione
+4. stima dei costi di migrazione
 
-5. Stima dei costi di post-migrazione
+5. stima dei costi di post-migrazione
 
-6. Valutazione dei costi rispetto ai benefici tangibili ed intangibili
+6. valutazione dei costi rispetto ai benefici tangibili ed intangibili
 
 Calcolare il costo totale di un servizio IT e compararlo con il
 potenziale ritorno economico di una migrazione al cloud costituisce un
