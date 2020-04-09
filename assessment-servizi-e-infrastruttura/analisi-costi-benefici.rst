@@ -73,49 +73,42 @@ base al contesto e alle circostanze in cui l’amministrazione si trova.
 --------------------------------------------------------
 
 Per calcolare i costi attuali dell’infrastruttura on-premise è necessario
-considerare i suoi costi di utilizzo e manutezione nel tempo, che includono
-i costi diretti ed indiretti.
+considerare i suoi costi complessivi di utilizzo e manutezione nel tempo.
+Questo calcolo include i costi in capitale ed operativi,
+sia direttamente imputabili alla piattaforma che condivisi con altre aree.
 
-I **costi diretti** sono solitamente riportati nel bilancio, e possono essere separati in due
-gruppi:
+I **costi diretti** imputabili alla piattaforma sono solitamente documentati
+in fatture e pagamenti. Tra questi:
 
--  i costi di hardware e software, solitamente documentati in fatture e pagamenti:
-   le spese per i server fisici, le licenze
-   software, contratti di manutenzione, le garanzie, le forniture, i
-   materiali, i pezzi di ricambio ed il resto.
-   A questo si aggiungono quanta banda, storage, e capacità del database si
-   consuma e/o dettagli infrastrutturali come il numero di server, i
-   tipi di database e storage per calcolare la stima dei costi
-   infrastrutturali in cloud. Alcuni esempi più specifici sono:
+- investimenti per l'acquisto iniziale di hardware (server fisici, dischi, apparati di rete, ...)
+  e software (sistemi operativi, middleware, applicativi, ..)
 
-   -  costi di acquisto materiali di consumo
+- costi operativi per la gestione del quotidiano, inclusa la forza lavoro impiegata nell'infrastruttura:
 
-   -  investimento per l’acquisto delle risorse (server, facility ecc)
+  * manutenzione dell'hardware e acquisto dei ricambi
 
-   -  costi di manutenzione infrastruttura hardware (dischi, schede di
-      rete ecc.)
+  * connettività internet e networking dedicata al progetto, content delivery network, ...
 
-   -  costi per licenze sistemi operativi, macchine virtuali, database,
-      antivirus, backup
+  * rinnovi delle licenze delle componenti infrastrutturali come
+    sistemi operativi, macchine virtuali, database,
+    antivirus, backup, ..
 
-   -  costi per licenze applicativi
+  * rinnovi delle licenze degli applicativi (CRM, collaboration suite, ..)
 
-   -  backup di lungo termine periodico di VPS e dati
+  * manutenzione delle soluzioni di data protection e disaster recovery (DAT, dispositivi
+    di archiviazione sostitutiva, infrastrutture replicate, ...)
 
-   -  disaster recovery
+Ci sono poi i **costi indiretti**, ossia condivisi con altre strutture o progetti
+e che solitamente vengono ripartiti tra diverse aree o dipartimenti:
 
--  i costi operativi, che includono:
-
-   -  costo del lavoro per la manutenzione dei server, database ed altre
-      tecnologie
-
-   -  costi di manutenzione delle strutture di hosting,
+   -  manutenzione delle strutture di hosting,
       come gli immobili ed il personale necessario alla loro gestione
 
-   -  costi di manutenzione infrastruttura di alimentazione (gruppi
+   -  manutenzione dell'infrastruttura di alimentazione (gruppi
       continuità, generatori, quadri comandi, ecc.) e di raffreddamento
 
-   -  costi di connettività ad internet (tipo connessione, banda minima
+   -  costi di connettività ad internet condivisi con altre aree/dipartimenti
+      (tipo connessione, banda minima
       garantita, fallback in caso di fallimento, ecc.)
 
    -  costi amministrativi necessari per mantenere e amministrare il
@@ -123,18 +116,18 @@ gruppi:
       dipartimenti del proprio ente - personale, acquisti, ragioneria,
       ecc.x - che sono dedicati a gestire lo staff IT interno ed esterno
 
-I **costi indiretti**, benché molto più difficili da calcolare, sono
-importanti altrettanto quanto i costi diretti, in quanto possono
-rappresentare una fetta importante dei costi complessivi dell’IT.
+A questi si aggiungono una serie di costi "nascosti"
+che possono cubare una fetta importante dei costi complessivi dell’IT, inclusi:
 
-Il principale costo indiretto è la perdita di produttività degli impiegati
-e degli utenti se l’infrastruttura IT non è disponibile. Per calcolare
-questi costi, si possono analizzare i file di log per determinare quanto
-di frequente i server hanno indisponibilità e per quanto tempo e
-moltiplicare quel tempo per un valore medio orario. I costi indiretti
-possono essere difficili da stimare, ma sono molto importanti da
-considerare, in quanto possono rappresentare una fetta importante dei
-costi complessivi dell’IT.
+  - i costi legati al rischio di mancata adeguatezza delle soluzioni on-premise
+    alle evoluzioni normative o ai requisiti sicurezza
+
+  - la mancata produttività causata dall'indisponibilità dell'infrastruttura IT
+    che è direttamente proporzionale al numero di utenti interni o esterni
+
+  - i costi legati degli infortuni connessi alla manutenzione delle infrastrutture fisiche.
+
+
 
 3.3.2 Stima dei costi dell’infrastruttura cloud
 ---------------------------------------------------
