@@ -114,7 +114,7 @@ e che solitamente vengono ripartiti tra diverse aree o dipartimenti:
    -  costi amministrativi necessari per mantenere e amministrare il
       dipartimento IT. Questi possono includere le risorse da altri
       dipartimenti del proprio ente - personale, acquisti, ragioneria,
-      ecc.x - che sono dedicati a gestire lo staff IT interno ed esterno
+      ecc. - che sono dedicati a gestire lo staff IT interno ed esterno
 
 A questi si aggiungono una serie di costi "nascosti"
 che possono cubare una fetta importante dei costi complessivi dell’IT, inclusi:
@@ -125,7 +125,7 @@ che possono cubare una fetta importante dei costi complessivi dell’IT, inclusi
   - la mancata produttività causata dall'indisponibilità dell'infrastruttura IT
     che è direttamente proporzionale al numero di utenti interni o esterni
 
-  - i costi legati degli infortuni connessi alla manutenzione delle infrastrutture fisiche.
+  - i costi legati a infortuni connessi alla manutenzione delle infrastrutture fisiche.
 
 
 
@@ -140,10 +140,8 @@ eseguire le applicazioni che si desidera migrare al cloud.
 
 I fornitori di infrastrutture cloud hanno ora semplificato le loro
 strutture tariffarie in modo che i potenziali clienti possano
-comprenderle più facilmente. Sono disponibili molti calcolatori di costi
-cloud per dare un'idea dei costi dell'infrastruttura cloud,
-indipendentemente dal fatto che si abbia selezionato un fornitore di
-servizi cloud ancora.
+comprenderle più facilmente. Molti fornitori di servizi cloud hanno reso disponibili calcolatori
+che consentono di stimare i costi dell'infrastruttura.
 
 Utilizzare i calcolatori dei prezzi dei CSP qualificati da AgID nel
 Cloud Marketplace, laddove disponibili.
