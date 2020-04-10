@@ -138,12 +138,20 @@ Questo lavoro è in parte semplificato dal fatto che molti cloud provider
 pubblicano online dei calcolatori utili a fare delle stime - che solitamente
 sono indicative e non sostituiscono un preventivo vero e proprio.
 
+Alcuni di questi calcolatori includono anche i presunti costi dell'on-premise
+come la forza lavoro impiegata o l'energia elettrica e permettono di scaricare
+delle analisi comparative tra cloud e on-premise:
+anche se la valutazione dei costi dell'infrastruttura attuale non può essere
+demandata ai calcolatori esposti dai CSP,
+confrontare i valori ed i riparti ritornati con quelli preventivamente
+stimati può essere utile.
+
 Utilizzare i calcolatori dei prezzi dei CSP qualificati da AgID nel
 Cloud Marketplace, laddove disponibili.
 
-Il primo passo è inserire l'infrastruttura on-premise esistente o
-pianificata. Utilizzando il calcolatore di base, si devono inserire le
-seguenti informazioni:
+Nel caso più semplice di uno IaaS, dove basta approvvigionarsi di server
+e storage, possiamo stimare il costo di una infrastruttura cloud analoga
+inserendo in un generico calcolatore queste informazioni:
 
 -  **server**:
 
@@ -160,26 +168,24 @@ seguenti informazioni:
 
 -  **storage**:
 
-   -  tipo di archiviazione
+   -  tipo di storage
 
-   -  capacità raw di archiviazione
+   -  capacità di archiviazione grezza (raw)
 
-   -  percentuale acceduta raramente (se si utilizza Object Storage)
+   -  percentuale di storage ad accesso sporadico
 
-È possibile aggiungere righe per più server e tipi di archiviazione, se
-necessario.
 
-Il calcolatore avanzato chiede maggiori dettagli su server e storage e
-prende in considerazione la rete e la forza lavoro IT nel calcolo del
-TCO. È importante utilizzare la versione avanzata del calcolatore TCO,
-in quanto questi dettagli aiuteranno a calcolare un costo potenziale più
-accurato ed olistico.
+Calcolatori più avanzati permettono di dettagliare meglio server e storage
+differenziando per tipologia di carico (eg. ETL, HPC, DB, ...)
+oppure includono i servizi SaaS e PaaS come:
 
-Dopo aver inserito le informazioni, il calcolatore genera un rapporto
-che riepiloga il confronto TCO a tre anni per categorie di costo. È
-quindi possibile scaricare un rapporto completo che fornisce dettagliate
-ripartizioni dei costi, le ipotesi e la metodologia utilizzata nel
-modello di costo e le domande frequenti.
+- database as a service
+
+- servizi di machine learning
+
+- identity e account management.
+
+
 
 3.3.3 Stima dei costi di migrazione al cloud
 ------------------------------------------------
