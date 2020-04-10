@@ -132,16 +132,11 @@ che possono cubare una fetta importante dei costi complessivi dell’IT, inclusi
 3.3.2 Stima dei costi dell’infrastruttura cloud
 ---------------------------------------------------
 
-Dopo aver determinato i costi attuali dell'infrastruttura on-premise, è
-necessario calcolare i costi potenziali dell'infrastruttura cloud. La
-verifica dei costi attuali dovrebbe aver fornito una solida conoscenza
-della capacità di rete, di archiviazione e di database necessaria per
-eseguire le applicazioni che si desidera migrare al cloud.
-
-I fornitori di infrastrutture cloud hanno ora semplificato le loro
-strutture tariffarie in modo che i potenziali clienti possano
-comprenderle più facilmente. Molti fornitori di servizi cloud hanno reso disponibili calcolatori
-che consentono di stimare i costi dell'infrastruttura.
+Partendo dai costi attuali dell'infrastruttura on-premise e dalla loro ripartizione,
+vanno stimati i costi dell'infrastruttura cloud.
+Questo lavoro è in parte semplificato dal fatto che molti cloud provider
+pubblicano online dei calcolatori utili a fare delle stime - che solitamente
+sono indicative e non sostituiscono un preventivo vero e proprio.
 
 Utilizzare i calcolatori dei prezzi dei CSP qualificati da AgID nel
 Cloud Marketplace, laddove disponibili.
