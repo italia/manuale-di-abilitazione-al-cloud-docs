@@ -81,22 +81,26 @@ I **costi diretti** imputabili alla piattaforma sono solitamente documentati
 in fatture e pagamenti. Tra questi:
 
 - investimenti per l'acquisto iniziale di hardware (server fisici, dischi, apparati di rete, ...)
-  e software (sistemi operativi, middleware, applicativi, ..)
+  e servizi di sviluppo software
 
 - costi operativi per la gestione del quotidiano, inclusa la forza lavoro impiegata nell'infrastruttura:
 
-  * manutenzione dell'hardware e acquisto dei ricambi
+  * gestione e manutenzione dell'hardware e del software, acquisto di componenti danneggiate, ..
+
+  * noleggio macchinari e hardware
 
   * connettività internet e networking dedicata al progetto, content delivery network, ...
 
-  * rinnovi delle licenze delle componenti infrastrutturali come
+  * acquisti e rinnovi delle licenze delle componenti infrastrutturali come
     sistemi operativi, macchine virtuali, database,
     antivirus, backup, ..
 
-  * rinnovi delle licenze degli applicativi (CRM, collaboration suite, ..)
+  * acquisti e rinnovi delle licenze degli applicativi (CRM, collaboration suite, software sviluppati ad hoc, ..)
 
   * manutenzione delle soluzioni di data protection e disaster recovery (DAT, dispositivi
     di archiviazione sostitutiva, infrastrutture replicate, ...)
+
+  * formazione ICT
 
 Ci sono poi i **costi indiretti**, ossia condivisi con altre strutture o progetti
 e che solitamente vengono ripartiti tra diverse aree o dipartimenti:
