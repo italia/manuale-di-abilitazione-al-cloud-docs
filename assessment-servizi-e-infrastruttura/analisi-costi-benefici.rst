@@ -190,70 +190,50 @@ oppure includono i servizi SaaS e PaaS come:
 3.3.3 Stima dei costi di migrazione al cloud
 ------------------------------------------------
 
-Il passo successivo è la stima dei costi coinvolti nell'esecuzione della
-migrazione degli applicativi nel cloud. Ecco i componenti da considerare
-quando si calcola il costo del processo di esecuzione della migrazione
-del cloud:
+Il passo successivo è la stima dei costi da sostenere per
+migrazione degli applicativi nel cloud. Vanno considerati i costi di:
 
--  **spostamento dei dati nel cloud**: uno dei passaggi più importanti
-   di qualsiasi migrazione. I fornitori di servizi cloud potrebbero
-   addebitare commissioni per il trasferimento dei dati ai loro sistemi,
-   pertanto è necessario tenere conto di tali costi. Un altro elemento
-   costoso potrebbe essere la manodopera necessaria per garantire che i
-   dati dell’ente siano sincronizzati correttamente dopo
-   l'implementazione sul cloud da sistemi legacy.
+-  **spostamento dei dati nel cloud**: è un passaggio cruciale.
+   A parte i costi che i CSP solitamente addebitano per il consumo di banda,
+   c'è tutta la parte di manodopera e automazione necessaria a sincronizzare
+   i dati dell'infrastruttura attuale con quella in cloud.
+   E’ necessaria una conversione degli schemi o dei formati?
+   Quanto si perde nella conversione?
+   Vanno scritte procedure di allineamento per far coesistere per il tempo necessario
+   l'infrastruttura esistente e quella in cloud?
+   Queste sono solo alcune domande utili a stimare questi costi;
 
-È possibile che si debbano realizzare anche soluzioni ponte per
-garantire la sincronizzazione dei dati fra on-premise e cloud durante la
-migrazione, quindi è necessario impiegare tempo e denaro per queste
-operazioni. Ogni scenario è diverso, ma è necessario tenere conto di una
-certa quantità di risorse da spendere per assicurarsi che i dati siano
-sincronizzati.
+-  **integrazione e test delle app**: deve essere possibile migrare
+   le applicazioni su cloud e testare tutte le funzionalità.
 
--  **integrazione e test delle app**: sfortunatamente, alcune
-   applicazioni non sono pronte per il cloud. Sia che si tratti di
-   grandi sistemi ERP (`enterprise resource planning <https://it.wikipedia.org/wiki/Enterprise_resource_planning>`_) con funzionalità
-   che dipendono da server on-premise o di software legacy in uso da
-   anni, è necessario tenere in considerazione i costi di integrazione e
-   test di queste app dopo averli spostati nel cloud.
+   Non tutte le applicazioni sono pronte per il cloud.
+   La migrazione di software legacy e mainframe, sistemi ERP (`enterprise resource planning <https://it.wikipedia.org/wiki/Enterprise_resource_planning>`_),
+   applicazioni nate per l'on-premise
+   è storicamente complessa, difficilmente testabile e a volte impraticabile.
+   Bisogna mappare le loro interazioni col resto delle infrastrutture
+   e individuare le modifiche necessarie al funzionamento
+   sul cloud e al testing di tutte le funzionalità a valle della migrazione.
 
-La prima cosa da fare è capire come queste piattaforme interagiscono con
-gli attuali sistemi operativi e infrastrutture. Successivamente, è
-necessario determinare le modifiche che è necessario apportare affinché
-questi sistemi funzionino correttamente nel loro nuovo ambiente cloud.
-Quindi è il momento di apportare queste modifiche e testare gli
-applicativi. Tutto questo costa tempo e denaro, quindi è necessario
-assicurarsi di avere allocato risorse per queste operazioni.
+-  **spese di consulenza**: se l’organizzazione non dispone di
+   tutte le competenze necessarie per eseguire autonomamente una
+   migrazione al cloud, può attingere a competenze esterne, ad esempio
+   per sviluppare una strategia, pianificare un'architettura
+   cloud, o eseguire il processo di migrazione.
 
--  **spese di consulenza**: l’organizzazione potrebbe non disporre di
-   tutte le competenze e le risorse necessarie per eseguire una
-   migrazione al cloud da sola. Una migrazione al cloud può risultare
-   complessa e si può aver bisogno di esperienza e competenze esterne di
-   supporto. Il contributo di un esterno può essere utile su diversi
-   fronti: mappare un approccio strategico, sviluppare un'architettura
-   cloud, eseguire il processo di migrazione stessa. Le conoscenze e
-   l'esperienza dei consulenti in molti settori e situazioni possono
-   essere molto preziose.
+   Le spese di consulenze sono determinate dalle competenze necessarie,
+   dal numero di esperti da coinvolgere e alla durata della migrazione;
+   per stimarle serve aver chiari i criteri di selezione e
+   conoscere approfonditamente le competenze cloud ed i punti di forza e di debolezza
+   dell’amministrazione in materia di cloud.
 
 -  **licenze:** è importante eseguire una valutazione dei costi-benefici
    associati alla migrazione in cloud di software on-premise sotto
    licenza. Per informazioni più dettagliate si rimanda al capitolo 3.4
    Gestione delle licenze software in cloud.
 
-Una conoscenza approfondita dei punti di forza e di debolezza
-dell’amministrazione in relazione al cloud computing e alla migrazione
-determina se è necessario l'aiuto di esperti del cloud. Sulla base di
-questa conoscenza, è poi possibile approssimare i costi del tempo di
-questi esperti in base al livello di assistenza di cui si necessita.
 
-Se si decide che si ha bisogno dell'aiuto di un consulente, è importante
-assicurarsi di aver compreso gli aspetti fondamentali da ricercare nella
-selezione di un partner per la migrazione al cloud. Il partner può
-essere una risorsa inestimabile, quindi ci si dovrà assicurare di
-selezionare quello giusto.
-
-Inoltre, si ricorda che le framework di lavoro del programma di
-abilitazione al Cloud delle PA sono previsti centri di competenza sul
+Ricordiamo che il framework di lavoro del programma di
+abilitazione al Cloud delle PA prevede centri di competenza sul
 territorio, ovvero dei soggetti aggregatori di tecnici, esperti e
 managers dell’IT per consolidare e potenziare le competenze, il *know
 how* e l’esperienza relativa alla gestione dei servizi cloud nelle
