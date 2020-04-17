@@ -190,18 +190,18 @@ oppure includono i servizi SaaS e PaaS come:
 3.3.3 Stima dei costi di migrazione al cloud
 ------------------------------------------------
 
-Il passo successivo è la stima dei costi da sostenere per
+Il passo successivo è la stima dei costi da sostenere per la
 migrazione degli applicativi nel cloud. Vanno considerati i costi di:
 
 -  **spostamento dei dati nel cloud**: è un passaggio cruciale.
    A parte i costi che i CSP solitamente addebitano per il consumo di banda,
-   c'è tutta la parte di manodopera e automazione necessaria a sincronizzare
+   sono da considerare costi per manodopera e automazione necessaria a sincronizzare
    i dati dell'infrastruttura attuale con quella in cloud.
    E’ necessaria una conversione degli schemi o dei formati?
    Quanto si perde nella conversione?
    Vanno scritte procedure di allineamento per far coesistere per il tempo necessario
    l'infrastruttura esistente e quella in cloud?
-   Queste sono solo alcune domande utili a stimare questi costi;
+   Queste sono solo alcune delle domande che possono aiutare a stimare questi costi;
 
 -  **integrazione e test delle app**: deve essere possibile migrare
    le applicazioni su cloud e testare tutte le funzionalità.
@@ -209,22 +209,22 @@ migrazione degli applicativi nel cloud. Vanno considerati i costi di:
    Non tutte le applicazioni sono pronte per il cloud.
    La migrazione di software legacy e mainframe, sistemi ERP (`enterprise resource planning <https://it.wikipedia.org/wiki/Enterprise_resource_planning>`_),
    applicazioni nate per l'on-premise
-   è storicamente complessa, difficilmente testabile e a volte impraticabile.
-   Bisogna mappare le loro interazioni col resto delle infrastrutture
-   e individuare le modifiche necessarie al funzionamento
-   sul cloud e al testing di tutte le funzionalità a valle della migrazione.
+   è un processo complesso, difficilmente testabile e a volte impraticabile.
+   Bisogna mappare le interazioni delle applicazioni con tutte le componenti delle infrastrutture,
+   individuare le modifiche necessarie al funzionamento
+   sul cloud e quelle necessarie per il testing di tutte le funzionalità a valle della migrazione.
 
 -  **spese di consulenza**: se l’organizzazione non dispone di
    tutte le competenze necessarie per eseguire autonomamente una
-   migrazione al cloud, può attingere a competenze esterne, ad esempio
+   migrazione al cloud può attingere a competenze esterne, ad esempio
    per sviluppare una strategia, pianificare un'architettura
    cloud, o eseguire il processo di migrazione.
 
    Le spese di consulenze sono determinate dalle competenze necessarie,
-   dal numero di esperti da coinvolgere e alla durata della migrazione;
-   per stimarle serve aver chiari i criteri di selezione e
-   conoscere approfonditamente le competenze cloud ed i punti di forza e di debolezza
-   dell’amministrazione in materia di cloud.
+   dal numero di esperti da coinvolgere e dalla durata della migrazione;
+   per stimarle serve aver chiari i criteri di selezione per i consulenti,
+   conoscere approfonditamente quali sono le competenze ed i punti di forza e di debolezza
+   dell’organizzazione in materia di cloud.
 
 -  **licenze:** è importante eseguire una valutazione dei costi-benefici
    associati alla migrazione in cloud di software on-premise sotto
