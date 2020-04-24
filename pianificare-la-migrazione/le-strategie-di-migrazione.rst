@@ -358,7 +358,7 @@ pubblicati nel cloud Marketplace.
 4.1.4 Trasferimento di host o Re-host
 -------------------------------------
 
-Anche detta strategia di *Lift & Shift*, consiste nel prendere (Lift)
+Anche detta strategia di *Lift and Shift*, consiste nel prendere (Lift)
 l’intero servizio, compreso di infrastruttura, architettura, dati e
 traffico e spostarlo su un hosting cloud (Shift) senza modifiche al core
 dell’applicativo. Spesso il re-host è una strategia che permette di fare
