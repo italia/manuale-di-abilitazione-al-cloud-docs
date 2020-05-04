@@ -6,10 +6,7 @@
 
 La virtualizzazione consiste nell'eseguire un'istanza virtuale
 di un sistema informatico attraverso un livello che astrae l'hardware fisico.
-Il sistema di virtualizzazione presenta alle applicazioni in esecuzione,
-un'interfaccia analoga a quella di una macchina fisica,
-dove il sistema operativo, le librerie e altri programmi appaino dedicati al
-sistema virtualizzato ospite e non connessi al sistema operativo ospitante (host).
+Su un unico server fisico (host) è possibile eseguire più sistemi operativi con relative librerie e applicazioni. 
 
 La virtualizzazione offre isolamento mantenendo i programmi in
 esecuzione all'interno di una macchina virtuale al sicuro dai processi
