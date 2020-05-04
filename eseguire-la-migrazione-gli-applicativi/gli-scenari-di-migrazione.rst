@@ -4,24 +4,21 @@
 5.4.1 Virtualizzazione
 ----------------------
 
-La virtualizzazione è il processo di esecuzione di un'istanza virtuale
-di un sistema informatico in un livello estratto dall'hardware reale.
-Alle applicazioni in esecuzione sulla macchina virtualizzata, può
-apparire come se fossero sulla propria macchina dedicata, in cui il
-sistema operativo, le librerie e altri programmi sono unici per il
-sistema virtualizzato ospite e non connessi al sistema operativo host
-che si trova sotto di esso.
+La virtualizzazione consiste nell'eseguire un'istanza virtuale
+di un sistema informatico attraverso un livello che astrae l'hardware fisico.
+Su un unico server fisico (host) è possibile eseguire più sistemi operativi con relative librerie e applicazioni. 
 
 La virtualizzazione offre isolamento mantenendo i programmi in
 esecuzione all'interno di una macchina virtuale al sicuro dai processi
 che si svolgono in un'altra macchina virtuale sullo stesso host.
 
-La virtualizzazione è un modo per applicare la strategia di migrazione
-nota come Re-host o “Solleva e sposta” (“Lift and Shift” ): il metodo
-più adatto a migrare un’applicazione legacy su una piattaforma cloud in
-quanto, invece di spostare i componenti di un applicativo in modo
-separato nel tempo, sposta l’intero ambiente, con tutto l’insieme di
-complesse dipendenze, in un colpo solo.
+La virtualizzazione permette di applicare la strategia di migrazione
+di Re-host (“Lift and Shift” ) indicata nella sezione 4.1.4.
+Questa strategia è particolarmente
+adatta a migrare un’applicazione legacy su una piattaforma cloud in
+quanto, invece di spostare progressivamente e separatamente nel tempo
+i componenti di un applicativo, sposta l’intero ambiente in un colpo solo,
+con tutto l’insieme di complesse dipendenze.
 
 Le principali fasi di una migrazione Re-host sono:
 
