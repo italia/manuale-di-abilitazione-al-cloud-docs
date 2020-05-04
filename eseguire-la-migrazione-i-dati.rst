@@ -28,37 +28,35 @@ queste fasi:
 7. dismissione del sistema sorgente
 
 Ognuna di queste fasi può essere eseguita secondo modalità diverse in
-base al tipo di migrazione che si sta effettuando.
+base al tipo di migrazione.
 
-Con il costante aumento di dati memorizzati nel sistema sorgente, il
+All'aumentare dei dati memorizzati nel sistema sorgente, il
 processo di migrazione diventa più complesso ed esposto a rischi come:
 
--  **perdita dei dati**: quando i dati vengono trasferiti nel sistema di
-   destinazione, alcuni di essi potrebbero non venire trasferiti dal
-   sistema sorgente
+-  **perdita dei dati**: alcuni dati presenti nel sistema sorgente
+   potrebbero non essere trasferiti correttamente nel sistema di destinazione;
 
--  **inconsistenza dei dati**: anche quando la migrazione dei dati è
-   eseguita in modo efficiente, possono esservi errori semantici come ad
-   esempio la migrazione di un dato in una colonna differente sul
-   sistema di destinazione. Un altro aspetto cruciale è l’ordine di
-   esecuzione delle attività di migrazione che, se non effettuato
-   correttamente, può non rispettare le dipendenze fra i dati. Ad
-   esempio se dovessimo migrare un insieme di utenti e le loro liste dei
-   desideri, le seconde andrebbero migrate dopo i primi
+-  **inconsistenza dei dati**: anche una migrazione apparentemente corretta
+   può nascondere delle insidie.
+   Un dato potrebbe finire in una colonna differente, o l'ordine di esecuzione delle attività
+   di migrazione potrebbe non rispettare le relazioni tra i dati;
+   Ad esempio dovendo  migrare un insieme di utenti e le loro liste dei desideri,
+   le seconde andrebbero migrate dopo i primi;
 
--  **downtime prolungato**: il processo di migrazione può richiedere più
-   tempo di quanto pianificato e durante questo processo il sistema
-   sorgente non è disponibile
+-  **downtime prolungato**: il processo di migrazione può richiedere
+   più tempo di quanto pianificato e durante questo processo
+   il sistema sorgente non è disponibile;
 
--  **corruzione dei dati**: il sistema di destinazione può applicare
-   regole e validazioni differenti da quello sorgente causando possibili
-   crash di sistema e generazione di errori per l’utente finale che
-   utilizza l’applicativo
+-  **corruzione dei dati**:  regole di validazione e di codifica differenti tra il sistema sorgente
+   e quello di destinazione possono rendere indisponibili le applicazioni
+   e generare errori anche permanenti,
+   specie se vengono rilevati durante l'utlizzo degli applicativi.
+   Questo può impattare anche sugli utenti finali;
 
 -  **interferenze**: se il sistema sorgente o di destinazione sono in
-   uso durante il processo di migrazione, le attività in corso possono
-   causare degli imprevisti come ad esempio il locking delle tabelle o
-   un disallineamento dei dati
+   uso durante il processo di migrazione, possono
+   verificarsi dei contenziosi sull'accesso e la modifica delle risorse
+   (eg. locking delle tabelle) o un disallineamento dei dati.
 
 Questi rischi possono essere mitigati adottando strumenti e tecniche di
 test della migrazione dei dati, come raccomandato nella fase di
