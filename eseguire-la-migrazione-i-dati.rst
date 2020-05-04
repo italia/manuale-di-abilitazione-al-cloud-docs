@@ -40,7 +40,7 @@ processo di migrazione diventa più complesso ed esposto a rischi come:
    può nascondere delle insidie.
    Un dato potrebbe finire in una colonna differente, o l'ordine di esecuzione delle attività
    di migrazione potrebbe non rispettare le relazioni tra i dati;
-   dovendo  migrare un insieme di utenti e le loro liste dei desideri,
+   Ad esempio dovendo  migrare un insieme di utenti e le loro liste dei desideri,
    le seconde andrebbero migrate dopo i primi;
 
 -  **downtime prolungato**: il processo di migrazione può richiedere
