@@ -7,10 +7,8 @@
 La virtualizzazione consiste nell'eseguire un'istanza virtuale
 di un sistema informatico attraverso un livello che astrae l'hardware fisico.
 Su un unico server fisico (host) è possibile eseguire più sistemi operativi con relative librerie e applicazioni. 
-
-La virtualizzazione offre isolamento mantenendo i programmi in
-esecuzione all'interno di una macchina virtuale al sicuro dai processi
-che si svolgono in un'altra macchina virtuale sullo stesso host.
+Questo meccanismo esegue i programmi in una macchina virtuale isolandoli
+da quelli eseguiti in un'altra macchina virtuale sullo stesso host.
 
 La virtualizzazione permette di applicare la strategia di migrazione
 di Re-host (“Lift and Shift” ) indicata nella sezione 4.1.4.
@@ -49,57 +47,47 @@ Le principali fasi di una migrazione Re-host sono:
 5.4.2 Containerizzazione
 ------------------------
 
-La containerizzazione è un tipo di strategia di virtualizzazione che è
-emersa come alternativa alla virtualizzazione tradizionale basata su
+La containerizzazione è una strategia di virtualizzazione
+alternativa a quella tradizionale basata su
 `hypervisor <https://it.wikipedia.org/wiki/Hypervisor>`__.
+che si basa su una serie di funzionalità di isolamento messe
+a disposizione dal sistema operativo ospitante.
 
-Come per quest'ultimo, la virtualizzazione basata su container prevede
-la creazione di parti virtuali specifiche di un'infrastruttura hardware,
-ma a differenza dell'approccio tradizionale, che divide completamente
-queste macchine virtuali dal resto dell'architettura, la
-containerizzazione crea solo contenitori separati a livello di sistema
-operativo. Nella containerizzazione, il sistema operativo è condiviso
-dai diversi contenitori anziché clonato per ogni macchina virtuale.
+Mentre nella virtualizzazione il sistema host emula completamente
+un nuovo sistema operativo e una serie di periferiche
+virtuali (disco, network, ..)
+nella containerizzazione si usano le funzionalità del sistema operativo
+per creare al suo interno un contesto di esecuzione separato (container) per uno o più
+processi; questo risulta in un utilizzo più efficiente delle risorse poiché
+non è necessario emulare un'intera macchina virtuale,
+ma il livello di isolamento è minore poiché i processi applicativi comunicano con lo stesso 
+`kernel <https://it.wikipedia.org/wiki/Kernel>`__.
 
 La soluzione open source
 `Docker <https://it.wikipedia.org/wiki/Docker>`__ offre una piattaforma
-di virtualizzazione dei contenitori che si presta come buona alternativa
+di containerizzazione che può essere una alternativa più leggera
 agli approcci basati su hypervisor.
 
-La containerizzazione delle applicazioni è un metodo di virtualizzazione
-a livello di sistema operativo utilizzato per distribuire ed eseguire
-applicazioni distribuite senza avviare un'intera macchina virtuale per
-ogni app. Più applicazioni o servizi isolati vengono eseguiti su un
-singolo host e accedono allo stesso
-`kernel <https://it.wikipedia.org/wiki/Kernel>`__ del sistema operativo.
+La metodologia tipica di delivery di un container si basa sul concetto
+di immagine, ossia un file contenente tutte le componenti applicative
+(files, librerie, ..) utili all'esecuzione dei processi associati al container;
+le piattaforme di containerizzazione mettono a disposizione degli strumenti
+per la creazione, la pubblicazione e la distribuzione delle immagini.
+
+Questa modalità permette di evolvere i software con maggiore flessibilità
+rimuovendo ad esempio le dipendenze degli applicativi dall'infrastruttura
+di middleware: modificata l'immagine, viene istanziato un nuovo container
+indipendente dagli altri e
+che comunicherà con essi tramite API e protocolli rete.
 
 I container funzionano su sistemi bare-metal, istanze cloud e macchine
 virtuali, su Linux, Windows e Mac, permettendo la portabilità di
-un’immagine da un sistema all’altro senza variazioni.
+un’immagine da un sistema all’altro solitamente senza variazioni.
 
-I container di applicazioni includono i componenti di runtime, ad
-esempio file, variabili di ambiente e librerie, necessari per eseguire
-il software desiderato. I container di applicazioni consumano meno
-risorse di una distribuzione comparabile su macchine virtuali perché i
-contenitori condividono risorse senza un sistema operativo completo per
-supportare ciascuna app. L'insieme complessivo di informazioni da
-eseguire in un container è l'immagine. Il motore del container
-distribuisce queste immagini sugli host.
-
-La containerizzazione delle applicazioni funziona con microservizi e
-applicazioni distribuite, poiché ogni container opera indipendentemente
-dagli altri e utilizza risorse minime dall'host. Ogni microservizio
-comunica con gli altri attraverso le API delle applicazioni, con lo
-strato di virtualizzazione del contenitore in grado di scalare i
-microservizi per soddisfare la crescente domanda di un componente
-dell'applicazione e distribuire il carico.
-
-Questa configurazione incoraggia anche la flessibilità. Ad esempio, se
-uno sviluppatore desidera una variazione dall'immagine standard, può
-creare un contenitore che contiene solo la nuova libreria. Per
-aggiornare un'applicazione, uno sviluppatore apporta modifiche al codice
-nell'immagine del contenitore, quindi esegue il re-deploy dell'immagine
-per l'esecuzione sul sistema operativo host.
+I container vengono spesso utilizzati per il deployment di microservizi
+ed in congiunzione ad uno strato di orchestrazione che si occupa di
+scalare separatamente il numero dei container associati ai servizi
+in funzione del carico applicativo della singola componente.
 
 La containerizzazione offre una serie di vantaggi:
 
