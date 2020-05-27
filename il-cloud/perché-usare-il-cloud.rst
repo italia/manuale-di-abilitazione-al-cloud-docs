@@ -177,11 +177,11 @@ impongono infatti anche alle pubbliche amministrazioni l’adozione di
 misure tecniche e organizzative adeguate a garantire la sicurezza del
 trattamento dei dati.
 
-Molti provider di servizi cloud offrono un’ampia gamma di metodi,
+Molti cloud service provider (CSP) offrono un’ampia gamma di metodi,
 tecnologie e controlli che rafforzano la sicurezza complessiva, grazie
 alla protezione dei dati (che possono essere criptati con i più alti
 livelli di sicurezza del mercato), dell’applicazione e dell’
-infrastruttura da minacce potenziali. I cloud service provider (CSP)
+infrastruttura da minacce potenziali. I CSP
 qualificati da AGID e consultabili sul `Cloud
 Marketplace <https://cloud.italia.it/marketplace/>`__
 hanno infrastrutture e servizi sviluppati secondo criteri di
@@ -193,21 +193,28 @@ criteri di qualificazione in termini di sicurezza dei CSP possono essere
 consultati nel `Kit Percorsi di qualificazione CSP e
 SaaS <https://www.agid.gov.it/sites/default/files/repository_files/kit_percorsi_di_qualificazione_id2.pdf>`__.
 
-Nell’ambito della sicurezza, i provider di servizi cloud offrono anche
+I CSP offrono anche
 servizi specifici di disaster recovery (vedi capitolo 5.3.10), che
-permettono un ripristino più rapido dei sistemi IT maggiormente critici
-senza sostenere le spese di un secondo sito fisico. Questo garantisce la
-continuità operativa dell’infrastruttura ed elimina il rischio di
-perdita di dati. Inoltre, le applicazioni cloud sono in grado di mettere
-a disposizione dell’amministratore strumenti di auditing e controllo
-delle informazioni che consentono interventi puntuali all’insorgere di
-eventuali problemi.
+permettono di ripristinare più rapidamente i sistemi IT maggiormente critici
+senza sostenere le spese di un secondo sito fisico. Questo migliora la
+continuità operativa dell’infrastruttura e mitiga il rischio di
+perdita di dati. Inoltre, le applicazioni cloud mettono solitamente
+a disposizione strumenti di auditing e controllo
+delle informazioni che consentono di intervenire puntualmente in caso
+di problemi.
 
-Certamente non basta dotarsi di soluzioni cloud per assicurare privacy
+Certamente la responsabilità finale della sicurezza e dell'integrità
+dei dati è sempre dell'amministrazione:
+gli strumenti cloud possono semplificare
+la stesura e la messa in campo di piani di sicurezza e continuità operativa
+ma non li sostituiscono.
+
+Non basta dotarsi di soluzioni cloud per assicurare privacy
 ai propri utenti e sicurezza delle infrastrutture e servizi IT, bensì
-serve un processo continuo di vigilanza e controllo che fin dalla prima
-fase di progettazione dei servizi, agisca trasversalmente su tutte le
-aree di interesse, e che sia costantemente aggiornato rispetto allo
+serve un processo continuo di vigilanza e controllo che
+agisca trasversalmente su tutte le aree di interesse
+fin dalla prima fase di progettazione dei servizi;
+e che sia costantemente aggiornato rispetto allo
 stato dell’arte delle principali misure di sicurezza.
 
 1.2.7 Miglioramento dei servizi
