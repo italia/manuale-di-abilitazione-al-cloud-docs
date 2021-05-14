@@ -291,10 +291,11 @@ per renderlo più facilmente integrabile con gli altri enti.
 
 Nel caso di strategia di migrazione re-purchase, ovvero nel caso di
 acquisto di servizi SaaS, l’interoperabilità è un criterio che deve
-essere preso in considerazione per la scelta della soluzione più adatta.
-In particolare, se il SaaS acquisito si interfaccia direttamente con altre amministrazioni,
+essere preso in considerazione:
+se il SaaS acquisito si interfaccia direttamente con altre amministrazioni,
 deve farlo in conformità alle
-`Linee guida sull'interoperabilità tecnica. <https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs>`__
+`Linee guida sull'interoperabilità tecnica, <https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs>`__
+alternativamente l'ente dovrà sviluppare sopra il SaaS un livello di interoperabilità.
 
 Tutti i servizi presenti sul `cloud
 Marketplace <https://cloud.italia.it/marketplace/>`__
