@@ -284,26 +284,32 @@ attaccarli.
 ----------------------
 
 Durante un processo di migrazione si deve considerare l’opportunità di
-aumentare l’interoperabilità dell’applicativo al fine di conformarlo al
+adeguare l’applicativo al 
 “\ `Nuovo modello di
-interoperabilità <https://www.agid.gov.it/it/infrastrutture/sistema-pubblico-connettivita/il-nuovo-modello-interoperabilita>`__\ ”.
+interoperabilità <https://www.agid.gov.it/it/infrastrutture/sistema-pubblico-connettivita/il-nuovo-modello-interoperabilita>`__\ ”
+per renderlo più facilmente integrabile con gli altri enti.
 
 Nel caso di strategia di migrazione re-purchase, ovvero nel caso di
 acquisto di servizi SaaS, l’interoperabilità è un criterio che deve
-essere preso in considerazione per la scelta della soluzione più adatta.
+essere preso in considerazione:
+se il SaaS acquisito si interfaccia direttamente con altre amministrazioni,
+deve farlo in conformità alle
+`Linee guida sull'interoperabilità tecnica, <https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs>`__
+alternativamente l'ente dovrà sviluppare sopra il SaaS un livello di interoperabilità.
+
 Tutti i servizi presenti sul `cloud
 Marketplace <https://cloud.italia.it/marketplace/>`__
 di AgID, la piattaforma che espone i servizi e le infrastrutture
-qualificate, soddisfano il criterio di interoperabilità con altri
+qualificate, sono compatibili con altri
 servizi e infrastrutture cloud dello stesso tipo mediante l’utilizzo di
 standard aperti (ad esempio Open Virtualization Format) ed opportune
 API.
 
 Nel caso di strategia di migrazione re-platform, re-architect e/o per lo
 sviluppo di nuovi applicativi cloud-native, invece, le Pubbliche
-Amministrazioni devono seguire le linee guida del `modello di
-interoperabilità <https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2019-2021/04_modello-di-interoperabilita.html>`__
-definito all’interno del Piano Triennale, che garantisce la
+Amministrazioni devono seguire le
+`Linee guida sull'interoperabilità tecnica. <https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs>`__
+che garantisce la
 collaborazione tra le Pubbliche Amministrazioni e verso soggetti terzi.
 
 5.3.8 Monitoraggio e alerting
