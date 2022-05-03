@@ -298,7 +298,7 @@ deve farlo in conformità alle
 alternativamente l'ente dovrà sviluppare sopra il SaaS un livello di interoperabilità.
 
 Tutti i servizi presenti sul `cloud
-Marketplace <https://cloud.italia.it/marketplace/>`__
+Marketplace <https://catalogocloud.agid.gov.it/>`__
 di AgID, la piattaforma che espone i servizi e le infrastrutture
 qualificate, sono compatibili con altri
 servizi e infrastrutture cloud dello stesso tipo mediante l’utilizzo di
