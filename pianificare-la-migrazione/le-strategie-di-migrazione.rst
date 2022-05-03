@@ -343,7 +343,7 @@ corrispondente versione cloud-based realizzata dal medesimo produttore o
 con soluzioni equivalenti o migliorative proposte da nuovi soggetti.
 
 La verifica di tali alternative può essere fatta sul catalogo dei
-servizi cloud qualificati da AGID `(Cloud Marketplace) <https://cloud.italia.it/marketplace>`__, la piattaforma
+servizi cloud qualificati da AGID `(Cloud Marketplace) <https://catalogocloud.agid.gov.it/>`__, la piattaforma
 che espone i servizi e le infrastrutture qualificate.
 
 All'interno del Cloud Marketplace è possibile ricercare i servizi e
