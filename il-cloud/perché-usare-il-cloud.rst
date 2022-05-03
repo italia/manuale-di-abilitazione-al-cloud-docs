@@ -170,7 +170,7 @@ Amministrare le infrastrutture IT comporta responsabilità non solo di
 tipo economico-amministrativo, ma soprattutto di sicurezza e di
 protezione dei dati personali. Le recenti normative in materia di
 privacy e di sicurezza informatica (ad es.
-`GDPR <https://eugdpr.org/>`__ e `misure minime di sicurezza informatica
+`GDPR <https://www.garanteprivacy.it/regolamentoue>`__ e `misure minime di sicurezza informatica
 ICT per la pubblica
 amministrazione <https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict>`__)
 impongono infatti anche alle pubbliche amministrazioni l’adozione di
@@ -183,7 +183,7 @@ alla protezione dei dati (che possono essere criptati con i più alti
 livelli di sicurezza del mercato), dell’applicazione e dell’
 infrastruttura da minacce potenziali. I CSP
 qualificati da AGID e consultabili sul `Cloud
-Marketplace <https://cloud.italia.it/marketplace/>`__
+Marketplace <https://catalogocloud.agid.gov.it/>`__
 hanno infrastrutture e servizi sviluppati secondo criteri di
 affidabilità e sicurezza considerati necessari per i servizi digitali
 della PA. Ad esempio, i data center dei CSP hanno tutti la
@@ -241,7 +241,7 @@ più adeguati alle necessità di interoperabilità e comunicazione tra
 diversi servizi (e tra le rispettive basi di dati). Le soluzioni SaaS
 dei cloud service provider (CSP) qualificati da AGID e consultabili sul
 `Cloud
-Marketplace <https://cloud.italia.it/marketplace/>`__,
+Marketplace <https://catalogocloud.agid.gov.it/>`__,
 ad esempio, offrono tutte uno strato di interoperabilità fruibile
 tramite API. Questo permette di avere maggiore flessibilità nel provare
 nuovi servizi o apportare modifiche.
