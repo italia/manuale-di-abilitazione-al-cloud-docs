@@ -79,7 +79,7 @@ Nel caso si stia eseguendo una specifica migrazione è opportuno che:
 
 Sviluppatori, sistemisti e tester devono adottare un approccio operativo
 conforme alle pratiche
-`DevOps <https://developers.italia.it/it/devops/>`__ per garantire
+`DevOps <https://it.wikipedia.org/wiki/DevOps>`__ per garantire
 comunicazione, collaborazione e integrazione tra sviluppatori e addetti
 alle operations.
 
