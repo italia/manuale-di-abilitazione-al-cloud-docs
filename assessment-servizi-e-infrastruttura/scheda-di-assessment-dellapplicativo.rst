@@ -285,7 +285,7 @@ campi da riempire in questa sezione sono:
 
 -  **Alternative SaaS**: esistenza di alternative SaaS per l’applicativo
    in analisi all’interno del `Cloud
-   Marketplace <https://cloud.italia.it/marketplace/>`__
+   Marketplace <https://catalogocloud.agid.gov.it/>`__
    di AGID
 
 -  **Disponibilità di import dei dati**: garanzia che il fornitore SaaS

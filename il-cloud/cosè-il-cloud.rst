@@ -149,11 +149,11 @@ rischio quando si affidano i propri dati a provider che non garantiscono
 dei livelli minimi di sicurezza e affidabilità.
 
 Il modello `Cloud della
-PA <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/cloud-della-pa.html>`__
+PA <https://docs.italia.it/italia/piano-triennale-ict/cloud-docs/it/stabile/index.html>`__
 consente di mitigare tale rischio, qualificando servizi e infrastrutture
 cloud secondo specifici parametri di sicurezza e affidabilità idonei per
 le esigenze della pubbliche amministrazioni. Il Cloud della PA si
 compone di infrastrutture e servizi, qualificati da AGID sulla base di
 un insieme minimo di requisiti, che possono essere confrontati e
 consultati sul `Cloud
-Marketplace <https://cloud.italia.it/marketplace/>`__.
+Marketplace <https://catalogocloud.agid.gov.it/>`__.

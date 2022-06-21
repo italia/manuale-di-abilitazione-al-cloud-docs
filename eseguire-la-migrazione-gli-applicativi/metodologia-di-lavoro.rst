@@ -79,7 +79,7 @@ Nel caso si stia eseguendo una specifica migrazione è opportuno che:
 
 Sviluppatori, sistemisti e tester devono adottare un approccio operativo
 conforme alle pratiche
-`DevOps <https://developers.italia.it/it/devops/>`__ per garantire
+`DevOps <https://it.wikipedia.org/wiki/DevOps>`__ per garantire
 comunicazione, collaborazione e integrazione tra sviluppatori e addetti
 alle operations.
 
@@ -219,8 +219,7 @@ retrospettiva con regolarità includendo sia il team tecnico
 dell’amministrazione che il team tecnico del fornitore.
 
 Per eseguire una retrospettiva efficace è importante trovare la tecnica
-ed il formato più adatto al contesto consultando il libro di Esther
-Derby “\ `Agile
-Retrospectives <https://www.amazon.it/Agile-Retrospective-Making-Teams-Great/dp/0977616649/ref=sr_1_1?ie=UTF8&qid=1382436102&sr=8-1&keywords=agile+retrospective>`__\ ”
+ed il formato più adatto al contesto. Per approfondire puoi consultare il libro di Esther
+Derby “Agile Retrospectives: Making Good Teams Great”
 o altre risorse disponibili online, come ad esempio `questo
 articolo <http://www.marioconcina.it/blog/come-fare/5-tecniche-di-retrospettive-agile.html>`__.

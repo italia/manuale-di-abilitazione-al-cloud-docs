@@ -4,7 +4,7 @@
 Come illustrato più volte in questo documento, `il principio “Cloud
 First” <https://buildmedia.readthedocs.org/media/pdf/cloud-italia-docs/latest/cloud-italia-docs.pdf>`__,
 nel contesto del `programma di abilitazione al Cloud delle
-PA <https://cloud.italia.it/projects/cloud-docs/it/latest/cloud-enablement.html>`__,
+PA <https://cloud.italia.it/programma-abilitazione-cloud/>`__,
 prevede che le pubbliche amministrazioni che si apprestano a migrare i
 propri applicativi in cloud valutino in prima istanza la presenza di
 servizi SaaS nel catalogo dei servizi cloud qualificati da AGID (Cloud
@@ -21,7 +21,7 @@ possono godere dei benefici del cloud da subito con ridotti costi
 iniziali.
 
 All'interno del `Cloud
-Marketplace <https://cloud.italia.it/marketplace/>`__
+Marketplace <https://catalogocloud.agid.gov.it/>`__
 è possibile ricercare i servizi SaaS qualificati e visualizzarne la
 scheda tecnica che mette in evidenza le caratteristiche tecniche, il
 modello di costo e i livelli di servizio dichiarati dal fornitore in
