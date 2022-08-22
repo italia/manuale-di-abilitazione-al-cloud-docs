@@ -9,7 +9,7 @@ La piattaforma accetta documenti in formato RST o MD.
 Per informazioni sulla struttura di questo repository visita il [repository
 dedicato](https://github.com/italia/docs-italia-starter-kit).
 
-# Preview
+# Preview con docker-compose
 
 Per lavorare utilizzando una preview del documento è sufficiente lanciare Docker
 
@@ -19,10 +19,22 @@ docker-compose up
 
 la preview sarà visibile all'indirizzo [http://localhost:8000/](http://localhost:8000/)
 
+## Preview con podman
+
+Se si preferisce usare podman si può usare il seguente estratto che crea
+un’immagine basandosi sul nome della directory corrente:
+
+``` shell
+IMAGE_NAME=$(basename $(readlink -f .))
+podman build . -t "${IMAGE_NAME}"
+podman run --detach -v .:/app -v ./preview_build/preview_configuration.py:/app/conf.py -p 8000:8000 "${IMAGE_NAME}"
+xdg-open http://localhost:8000
+```
+
 # Come contribuire
 
 Ogni contributo è benvenuto!
-E' possibile aprire delle issue per segnalare errori, problemi o per la
+È possibile aprire delle issue per segnalare errori, problemi o per la
 richiesta di nuove funzionalità.
 Inoltre, è possibile aprire delle Pull Request per proporre direttamente delle
 modifiche.
