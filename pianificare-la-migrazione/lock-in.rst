@@ -103,9 +103,8 @@ lock-in da fornitore consigliamo di:
 -  favorire l’indipendenza degli applicativi dalle loro dipendenze
    esterne e di piattaforma come ad esempio hardware, sistema operativo
    o servizi specifici dei cloud service provider (PaaS o IaaS) tramite
-   l’utilizzo di strumenti di containerizzazione come Docker e
-   `architetture che separino il core applicativo della
-   piattaforma <https://dzone.com/articles/hexagonal-architecture-what-is-it-and-how-does-it>`__
+   l’utilizzo di strumenti di containerizzazione e architetture che
+   separino il core applicativo della piattaforma
 
 -  favorire l’uso di tecnologie open source
 

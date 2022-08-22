@@ -115,15 +115,19 @@ cui iniziare, pianificarne ed eseguirne la migrazione, suggeriamo di
 seguire un approccio articolato in più step (da ripetersi poi in maniera
 iterativa e incrementale come illustrato sopra):
 
-1. **Lista degli applicativi e dei servizi attivi**: un primo passo che
-   consiste nello stilare una lista degli applicativi attualmente in
-   uso, ovvero sia gli applicativi utilizzati abitualmente che quelli
-   con accessi saltuari o legati a specifiche necessità. L’obiettivo è
-   di avere una visione d’insieme degli applicativi e i rispettivi
-   servizi che l’amministrazione gestisce. Si consiglia di svolgere
-   questa attività con il responsabile per la trasformazione digitale e
-   i responsabili IT dell’amministrazione. Questa prima attività è
-   presentata in dettaglio nel capitolo 3.1.1
+1. **Lista degli applicativi e classificazione dei servizi attivi**: un
+   primo passo che consiste nello stilare una lista degli applicativi
+   attualmente in uso, ovvero sia gli applicativi utilizzati
+   abitualmente che quelli con accessi saltuari o legati a specifiche
+   necessità. L’obiettivo è di avere una visione d’insieme degli
+   applicativi e dei rispettivi servizi che l’amministrazione gestisce.
+   Si consiglia di svolgere questa attività con il responsabile per la
+   trasformazione digitale e i responsabili IT dell’amministrazione.
+   Questa prima attività è presentata in dettaglio nel capitolo 3.1.1.
+   Una volta definito l’elenco dei servizi è necessario procedere con la
+   classificazione di dati e servizi seguendo la `procedura descritta su
+   PA digitale 2026
+   <https://padigitale2026.gov.it/come-partecipare/classifica-pa/>`__.
 
 2. **Prioritizzazione degli applicativi**: identificare gli applicativi
    candidati ad essere migrati nell’immediato classificandoli secondo
@@ -160,7 +164,12 @@ iterativa e incrementale come illustrato sopra):
    consiglia di svolgere questa attività con il responsabile per la
    trasformazione digitale, il centro di competenza, l’unità di
    esecuzione e i responsabili IT dell’amministrazione ed eventuali
-   fornitori. Le strategie di migrazione sono trattate nel capitolo 4.1
+   fornitori. Le strategie di migrazione sono trattate nel capitolo 4.1.
+   La scelta del modello di cloud deployment (pubblico, pubblico
+   criptato, private/hybrid su licenza, private) deve essere effettuata
+   in coerenza con l’esito della classificazione di dati e servizi e di
+   quanto indicato nel `documento Strategia Cloud Italia
+   <https://docs.italia.it/italia/cloud-italia/strategia-cloud-italia-docs/it/stabile/4_la_strategia_cloud_per_la_pubblica_amministrazione.html#la-classificazione-dei-dati-e-dei-servizi>`__.
 
 5. **Analisi costi-benefici**: per ciascuna delle strategie di
    migrazione identificate come possibili per l’applicativo effettuare

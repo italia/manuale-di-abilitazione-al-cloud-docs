@@ -16,8 +16,8 @@ facciamo riferimento nei rispettivi capitoli e che possono essere
 consultati in allegato a questo documento. Come anticipato nel capitolo
 2.3, si ricorda che l’esecuzione di queste attività deve essere
 coadiuvata da opportune competenze (provenienti dal centro di
-competenza, se esistente, o dall’unità di esecuzione acquisita tramite
-gara Consip) se non presenti all’interno dell’amministrazione.
+competenza, se esistente, o dall’unità di esecuzione) se non presenti
+all’interno dell’amministrazione
 
 L’obiettivo è di aiutare la pubblica amministrazione ad identificare
 quegli applicativi migrabili con maggiori benefici e minori criticità e

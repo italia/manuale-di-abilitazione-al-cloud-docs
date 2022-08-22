@@ -7,12 +7,13 @@ un costo molto minore rispetto alle soluzioni on-premise, aumentando
 notevolmente l’affidabilità delle infrastrutture IT e facilitando così
 il rinnovamento complessivo dei servizi IT nel paese.
 
-Alla luce di ciò, la strategia di Cloud Enablement delineata da AGID e
-Team Digitale è volta ad abilitare la progressiva migrazione delle
-infrastrutture e degli applicativi esistenti verso il cloud e questo
-documento, il Cloud Enablement Kit, fornisce un insieme di metodi,
-strumenti e buone pratiche che le pubbliche amministrazioni possono
-usare per pianificare e attuare la migrazione.
+Alla luce di ciò, la strategia di Cloud Enablement delineata dal
+Dipartimento per la trasformazione digitale (DTD) e l’Agenzia per
+l’Italia Digitale (AgID) è volta ad abilitare la progressiva migrazione
+delle infrastrutture e degli applicativi esistenti verso il cloud e
+questo documento, il Cloud Enablement Kit, fornisce un insieme di
+metodi, strumenti e buone pratiche che le pubbliche amministrazioni
+possono usare per pianificare e attuare la migrazione.
 
 Prima di iniziare a parlare di migrazione però, in questo capitolo
 vediamo insieme cos'è il cloud e quali sono i vantaggi che ci si aspetta

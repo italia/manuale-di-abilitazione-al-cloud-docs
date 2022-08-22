@@ -1,13 +1,12 @@
 7.2 Monitoraggio di nuove soluzioni SaaS aggiunte al Cloud Marketplace
 ==========================================================================
 
-Come illustrato più volte in questo documento, `il principio “Cloud
-First” <https://buildmedia.readthedocs.org/media/pdf/cloud-italia-docs/latest/cloud-italia-docs.pdf>`__,
-nel contesto del `programma di abilitazione al Cloud delle
-PA <https://cloud.italia.it/programma-abilitazione-cloud/>`__,
-prevede che le pubbliche amministrazioni che si apprestano a migrare i
-propri applicativi in cloud valutino in prima istanza la presenza di
-servizi SaaS nel catalogo dei servizi cloud qualificati da AGID (Cloud
+Come illustrato più volte in questo documento, il principio “Cloud
+First” nel contesto del `programma di abilitazione al Cloud delle PA
+<https://cloud.italia.it/programma-abilitazione-cloud/>`__, prevede che
+le pubbliche amministrazioni che si apprestano a migrare i propri
+applicativi in cloud valutino in prima istanza la presenza di servizi
+SaaS nel catalogo dei servizi cloud qualificati da AGID (Cloud
 Marketplace).
 
 Lo sviluppo del mercato dei prodotti software verso la modalità SaaS,

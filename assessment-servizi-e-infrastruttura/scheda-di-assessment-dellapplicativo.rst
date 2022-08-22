@@ -253,9 +253,10 @@ sono:
    particolare a calcolare l’impatto economico che la migrazione al
    cloud dell’applicativo può avere. Nella scheda di assessment è
    presente un foglio di lavoro separato da riempire con queste
-   specifiche informazioni. Per il riuso considerare le `indicazioni
-   pubblicate su Docs
-   Italia <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/>`__
+   specifiche informazioni. Per il riuso considerare le `Linee Guida su
+   acquisizione e riuso di software per le pubbliche amministrazioni
+   pubblicate su Docs Italia
+   <https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/>`__
 
 -  **Criticità**: eventuali aspetti critici dell'applicativo, ad
    esempio:

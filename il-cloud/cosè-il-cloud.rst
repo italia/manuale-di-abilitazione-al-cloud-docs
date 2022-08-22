@@ -48,7 +48,7 @@ categorie:
      all’applicazione tramite internet e possono accedervi da diverse
      tipologie di dispositivi (desktop, mobile, tablet, …). A differenza
      del modello ASP (`Application Service
-     Provisioning <https://it.wikipedia.org/wiki/Application_service_provider>`__),
+     Provider <https://it.wikipedia.org/wiki/Application_service_provider>`__),
      dove i fornitori installano un’istanza di applicazione per ogni
      cliente personalizzandole a seconda delle richieste di ognuno, il
      paradigma SaaS fa uso di applicazioni
@@ -57,8 +57,8 @@ categorie:
      customizzabile ma uguale per tutti. Un approccio, quest’ultimo, che
      garantisce il raggiungimento più facile di economie di scala da
      parte del fornitore.
-   | Esempi di SaaS sono: Microsoft Office 365, tutte le app di Google,
-     iCloud
+   | Consulta il `catalogo dei servizi SaaS qualificati da AgID
+     <https://catalogocloud.agid.gov.it/show/all?searchCategory=SaaS>`__.
 
 -  | **platform-as-a-service** (**PaaS**)\ **,** ovvero *piattaforma
      distribuita come servizio*: si tratta di servizi cloud che
@@ -70,8 +70,9 @@ categorie:
      concentrandosi sulle funzionalità dell’applicativo, lasciando al
      fornitore del servizio aspetti come la configurazione, la gestione
      dell’ambiente di esecuzione dell’archiviazione o dei database.
-   | Esempi di PaaS sono: Google App Engine, AWS Beanstalk, Azure App
-     Service, Heroku
+   | Consulta il `catalogo dei servizi PaaS qualificati da AgID
+     <https://catalogocloud.agid.gov.it/show/all?searchCategory=PaaS>`__.
+
 
 -  | **infrastructure-as-a-service** (**IaaS**), ovvero *infrastruttura
      distribuita come servizio*: si tratta di servizi cloud che
@@ -79,9 +80,10 @@ categorie:
      (server, macchine virtuali, risorse di archiviazione e networking)
      su richiesta mediante interfacce grafiche o mediante API
      (`Application Programming
-     Interfaces <https://it.wikipedia.org/wiki/Application_programming_interface>`__\ *)
-     c*\ on pagamento in base al consumo.
-   | Esempi di IaaS sono: Google Compute Engine, AWS EC2, Azure Instance
+     Interfaces <https://it.wikipedia.org/wiki/Application_programming_interface>`__)
+     con pagamento in base al consumo.
+   | Consulta il `catalogo dei servizi IaaS qualificati da AgID
+     <https://catalogocloud.agid.gov.it/show/all?searchCategory=IaaS>`__.
 
 Vi sono inoltre diversi modelli di dispiegamento dei servizi:
 
@@ -121,6 +123,8 @@ Vi sono inoltre diversi modelli di dispiegamento dei servizi:
    disponibili nel cloud privato. Tuttavia questo modello comporta
    comunque la proprietà e conseguente gestione della parte privata
    delle infrastrutture, risultando in maggiori costi e rischi.
+   Ulteriori informazioni nella `definizione di cloud ibrido
+   <https://cloud.italia.it/glossario/#cloud-ibrido>`__.
 
 Le linee guida in questo documento saranno orientate al modello di cloud
 pubblico, in quanto più allineato agli obiettivi della strategia di
@@ -157,3 +161,9 @@ compone di infrastrutture e servizi, qualificati da AGID sulla base di
 un insieme minimo di requisiti, che possono essere confrontati e
 consultati sul `Cloud
 Marketplace <https://catalogocloud.agid.gov.it/>`__.
+
+Il sito `cloud.italia.it <https://cloud.italia.it>`__ contiene un
+`approfondimento sulla qualificazione dei servizi cloud
+<https://cloud.italia.it/qualificazione-servizi-cloud/>`__ e sul
+`catalogo dei servizi cloud qualificati
+<https://cloud.italia.it/catalogo-servizi-cloud/>`__.

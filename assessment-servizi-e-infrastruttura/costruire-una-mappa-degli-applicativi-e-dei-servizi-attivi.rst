@@ -42,6 +42,9 @@ si ha maggiore evidenza e si integra successivamente la lista con quelli
 per i quali è necessaria un’indagine più approfondita per verificarne
 l’esistenza e l’utilizzo.
 
+3.1.2 Licenze
+---------------------------------
+
 3.1.2.1 Licenze software
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -62,8 +65,7 @@ compilazione della lista degli applicativi sono:
 3.1.2.1.1 Tipologie di licenze on-premise
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Vi sono diverse tipologie di licenze on-premise, in particolare: 
-
+Vi sono diverse tipologie di licenze on-premise, quali ad esempio:
 
 -    **licenza perpetua**: in passato l’unica opzione disponibile era
      l’acquisto di software su supporto fisico come un floppy o disco

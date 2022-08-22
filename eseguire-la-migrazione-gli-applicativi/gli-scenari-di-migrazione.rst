@@ -179,8 +179,8 @@ progettazione del software che aiutino quest’ultimo ad essere sempre più
 adattabile alle continue evoluzioni del bisogno degli utenti e del
 servizio associato.
 
-In accordo con le `linee
-guida <https://carta-dei-principi-tecnologici-del-procurement.readthedocs.io/it/latest/>`__
+In accordo con le `La carta dei principi tecnologici del procurement
+<https://carta-dei-principi-tecnologici-del-procurement.readthedocs.io/it/latest/>`__
 definite dal Codice dell’Amministrazione Digitale e dal Piano Triennale,
 l’obiettivo è quello di sviluppare servizi che:
 
