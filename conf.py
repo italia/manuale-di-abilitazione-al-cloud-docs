@@ -86,6 +86,24 @@ html_theme = 'docs-italia-theme'
 
 html_theme_path = [docs_italia_theme.get_html_theme_path()]
 
+# Theme options are theme-specific and customize the look and feel of a theme
+# further.  For a list of options available for each theme, see the
+# documentation.
+html_theme_options = {
+    # This option can be used with docs-italia-theme to customise how the versions "badge" is shown:
+    # 'False': default (alabaster) badge | 'True': custom (italia) badge
+    'custom_versions_badge': 'True',
+}
+
+if not on_rtd:
+    html_theme = 'docs_italia_theme'
+    #html_theme_path = ["themes", ]
+
+    # local builds with singlehtml don't need sidebar
+    # nor docs_italia_theme
+    if 'singlehtml' in sys.argv:
+        html_theme = 'basic'
+        html_theme_options.update({'no_sidebar': True})
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
 html_title = settings_project_name
