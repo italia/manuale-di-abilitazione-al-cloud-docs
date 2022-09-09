@@ -1,14 +1,16 @@
 Premessa
 ================
 
-La `strategia Cloud della
-PA <https://www.agid.gov.it/it/strategia-cloud-pa>`__ è nata per
-favorire l’adozione del modello cloud computing nelle pubbliche
-amministrazioni italiane, in linea con le indicazioni della strategia
-per la crescita digitale nell’ambito del `Piano
-Triennale per l’informatica pubblica
-2019-2021 <https://pianotriennale-ict.italia.it/>`__ e con le migliori
-pratiche nel resto dei principali paesi europei e del mondo.
+La `strategia Cloud della PA
+<https://cloud.italia.it/strategia-cloud-pa/>`__ è nata per favorire
+l’adozione del modello cloud computing nelle pubbliche amministrazioni
+italiane, in linea con le indicazioni del piano Italia Digitale 2026
+nell’ambito del `Piano Triennale per l’informatica pubblica 2019-2021
+<https://pianotriennale-ict.italia.it/>`__ e del `Piano triennale per
+l’informatica nella Pubblica Amministrazione
+<https://www.agid.gov.it/it/agenzia/piano-triennale>`__ emanato da AgID
+e con le migliori pratiche nel resto dei principali paesi europei e del
+mondo.
 
 Nella definizione della strategia Cloud delle PA sono stati individuati
 tre elementi principali che caratterizzano questo percorso di

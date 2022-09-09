@@ -25,9 +25,9 @@ un prerequisito per la creazione (e la continua evoluzione) di una
 solida base di conoscenza sulla migrazione al cloud nell’ambito delle
 pubbliche amministrazioni.
 
-Per questo motivo, sono nati `Devops
-Italia <https://developers.italia.it/it/devops/>`__, la comunità DevOps
-per il Cloud delle PA, e `Forum
-Italia <https://forum.italia.it/c/piano-triennale/data-center-e-cloud>`__,
-dove è possibile condividere i propri commenti e feedback sul Cloud
+Per questo motivo, contatta `Developers Italia
+<https://developers.italia.it/it/contatti>`__, la comunità che si occupa
+anche di DevOps per il Cloud delle PA, e `Forum Italia
+<https://forum.italia.it/c/piano-triennale/data-center-e-cloud>`__, dove
+è possibile condividere i propri commenti e feedback sul Cloud
 Enablement Kit.

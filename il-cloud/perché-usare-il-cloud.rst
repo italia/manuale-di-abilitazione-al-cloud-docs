@@ -19,9 +19,9 @@ sistemi operativi richiedono investimenti, tempo e personale dedicato
 per garantirne il corretto funzionamento e il continuo aggiornamento nel
 rispetto di standard qualitativi e di sicurezza.
 
-Il cloud elimina sia le spese di capitale iniziali necessarie per
-l’acquisto di hardware (PaaS, IaaS) e software (SaaS) che i costi legati
-alla gestione dei data center locali. Le applicazioni in cloud, infatti,
+Il cloud elimina le spese in conto capitale necessarie per l’acquisto di
+hardware e i costi legati alla gestione e manutenzione dei data center
+di proprietà delle amministrazioni. Le applicazioni in cloud, infatti,
 richiedono investimenti iniziali estremamente limitati e si pagano
 generalmente in base al consumo, consentendo così di gestire la crescita
 di un servizio in maniera dinamica. La decisione di migrare verso una
@@ -130,10 +130,11 @@ Per rimanere sul mercato, i fornitori devono aggiornare i propri servizi
 per supportare le ultime versioni dei browser, i sistemi operativi e le
 scelte dei dispositivi dei propri utenti.
 
-Per una pubblica amministrazione che gestisce migliaia di dispositivi,
-come laptop, desktop e dispositivi mobili, una qualsiasi soluzione che
-riduca la quantità di lavoro necessaria a mantenere il software
-aggiornato rappresenta un gran vantaggio.
+Per una pubblica amministrazione che gestisce applicazioni che devono
+essere fruibili tramite numerose tipologie di dispositivi, come laptop,
+desktop e dispositivi mobili, una qualsiasi soluzione che riduca la
+quantità di lavoro necessaria a mantenere il software aggiornato
+rappresenta un gran vantaggio.
 
 1.2.5 Riduzione delle attività manuali a basso valore aggiunto
 ------------------------------------------------------------------
@@ -169,10 +170,11 @@ un approfondimento su questo tema si rimanda al capitolo 5.3.9.
 Amministrare le infrastrutture IT comporta responsabilità non solo di
 tipo economico-amministrativo, ma soprattutto di sicurezza e di
 protezione dei dati personali. Le recenti normative in materia di
-privacy e di sicurezza informatica (ad es.
-`GDPR <https://www.garanteprivacy.it/regolamentoue>`__ e `misure minime di sicurezza informatica
-ICT per la pubblica
-amministrazione <https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict>`__)
+privacy e di sicurezza informatica (ad es. `GDPR
+<https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_it>`__
+e `misure minime di sicurezza informatica ICT per la pubblica
+amministrazione
+<https://www.agid.gov.it/it/sicurezza/misure-minime-sicurezza-ict>`__)
 impongono infatti anche alle pubbliche amministrazioni l’adozione di
 misure tecniche e organizzative adeguate a garantire la sicurezza del
 trattamento dei dati.

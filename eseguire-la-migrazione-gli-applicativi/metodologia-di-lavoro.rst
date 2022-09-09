@@ -78,8 +78,8 @@ Nel caso si stia eseguendo una specifica migrazione è opportuno che:
 ------------
 
 Sviluppatori, sistemisti e tester devono adottare un approccio operativo
-conforme alle pratiche
-`DevOps <https://it.wikipedia.org/wiki/DevOps>`__ per garantire
+conforme alle pratiche `DevOps
+<https://cloud.italia.it/glossario/#devops>`__ per garantire
 comunicazione, collaborazione e integrazione tra sviluppatori e addetti
 alle operations.
 
