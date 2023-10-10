@@ -416,13 +416,13 @@ Esempi di notifiche da configurare in ottica cloud possono essere:
 5.3.9 Automazione
 -----------------
 
-Come anticipato nel capitolo 5.1, le pratiche
-`DevOps <https://developers.italia.it/it/devops/>`__ rispondono
+Come anticipato nel capitolo 5.1, le pratiche `DevOps
+<https://cloud.italia.it/glossario/#devops>`__ rispondono
 all'interdipendenza tra sviluppo software e IT operations, ed aiutano
 un'organizzazione a sviluppare e gestire in modo più rapido ed
 efficiente prodotti e servizi software. L’obiettivo è quello di `creare
-una
-cultura <https://www.digital4.biz/white-paper/forrester-6-tendenze-che-influenzeranno-le-strategie-devops-nei-prossimi-anni_43672157144.htm?__hstc=212895371.9f4238a62197b7846b6fd32be7828223.1552386161803.1553187821467.1553536660708.8&__hssc=212895371.1.1553536660708&__hsfp=916113050>`__
+una cultura
+<https://www.digital4.biz/white-paper/forrester-6-tendenze-che-influenzeranno-le-strategie-devops-nei-prossimi-anni_43672157144.htm?__hstc=212895371.9f4238a62197b7846b6fd32be7828223.1552386161803.1553187821467.1553536660708.8&__hssc=212895371.1.1553536660708&__hsfp=916113050>`__
 in cui la consegna del software possa avvenire in maniera veloce,
 frequente e affidabile, utilizzando l’automazione ove possibile.
 
