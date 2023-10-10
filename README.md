@@ -29,6 +29,10 @@ IMAGE_NAME=$(basename $(readlink -f .))
 podman build . -t "${IMAGE_NAME}"
 podman run --detach -v .:/app -v ./preview_build/preview_configuration.py:/app/conf.py -p 8000:8000 "${IMAGE_NAME}"
 xdg-open http://localhost:8000
+podman run --detach -v .:/app -v ./preview_build/preview_configuration.py:/app/conf.py -p 8000:8000 --name "${IMAGE_NAME}" "${IMAGE_NAME}"
+podman container logs -f "${IMAGE_NAME}"
+podman container stop "${IMAGE_NAME}"
+podman container rm "${IMAGE_NAME}"
 ```
 
 # Come contribuire
