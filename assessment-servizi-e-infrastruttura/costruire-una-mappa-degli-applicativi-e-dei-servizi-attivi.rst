@@ -11,10 +11,13 @@ maggiori benefici e pongono minori criticità.
 ---------------------------------
 
 Il primo passo da compiere è stilare una lista degli applicativi
-attualmente in uso (vedi allegato "`Lista degli applicativi <https://drive.google.com/open?id=1iVswHZ22zanOSxFoQ8lSW8B1Enx9mg9gQAPVhayerNs>`_"), ovvero sia
-gli applicativi utilizzati abitualmente che quelli con accessi saltuari
-o legati a specifiche necessità. Sono da considerare tutti gli
-applicativi che utilizzano l’infrastruttura dell’organizzazione.
+attualmente in uso (vedi allegato "`Lista degli applicativi in formato
+ODS <../_assets/Allegato_Lista_degli_applicativi.ods>`__" o "`Lista
+degli applicativi in formato XLXS
+<../_assets/Allegato_Lista_degli_applicativi.xlsx>`__"), ovvero sia gli
+applicativi utilizzati abitualmente che quelli con accessi saltuari o
+legati a specifiche necessità. Sono da considerare tutti gli applicativi
+che utilizzano l’infrastruttura dell’organizzazione.
 
 Per ogni applicativo è utile tracciare il nome con la versione,
 l’interlocutore con cui si interagisce per gestire gli aggiornamenti, le

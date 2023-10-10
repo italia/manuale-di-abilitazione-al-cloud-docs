@@ -110,8 +110,14 @@ Dreyfus <https://apps.dtic.mil/dtic/tr/fulltext/u2/a084551.pdf>`__):
    all’obiettivo
 
 Per avere una visione d’insieme e immediata delle competenze con i
-diversi livelli di maturità, si può poi costruire un `diagramma di
-Kiviat <https://docs.google.com/presentation/d/1De60ZAKkrBHary4iTi_FXSapWEnoG-AbAkS1AGV7EH8/edit#slide=id.p9>`__
+diversi livelli di maturità, si può poi costruire un diagramma di
+Kiviat, vedi a pagina 9 del workshop Mappatura Competenze e Indicatori
+di Performance in formato `PDF
+<../_assets/CEP_-_Linee_Guida_Al_Cloud_-_Workshop_n3_-_Mappatura_Competenze_e_Indicatori_di_Performance.pdf#page=9>`__
+o in formato `ODP
+<../_assets/CEP_-_Linee_Guida_Al_Cloud_-_Workshop_n3_-_Mappatura_Competenze_e_Indicatori_di_Performance.odp>`__
+o in formato `PPTX
+<../_assets/CEP_-_Linee_Guida_Al_Cloud_-_Workshop_n3_-_Mappatura_Competenze_e_Indicatori_di_Performance.pptx>`__
 (conosciuto anche come grafico ragnatela o spider chart). Con un grafico
 di questo tipo si riescono a mostrare in un’unica rappresentazione:
 
@@ -154,10 +160,13 @@ dall’amministrazione come punto di partenza per la valutazione della
 propria situazione in termini di competenze per il cloud.
 
 Consigliamo alle amministrazioni di utilizzare il file creato (vedi
-allegato “`Valutazione competenze <https://drive.google.com/open?id=1_5aEEDg4TGDEJB8EM5ZQqb6XgGtCxISLRFa_-l2BscU>`_”) per iniziare il proprio assessment
-che potrà essere eseguito sia in maniera autonoma da ogni singolo
-componente del team, evidenziando così le peculiarità di ognuno, sia
-valutando le competenze come team.
+allegato “`Valutazione competenze in formato ODS
+<../_assets/Allegato_Valutazione_competenze.ods>`_” o “`Valutazione
+competenze in formato XLXS
+<../_assets/Allegato_Valutazione_competenze.xlsx>`_”) per iniziare il
+proprio assessment che potrà essere eseguito sia in maniera autonoma da
+ogni singolo componente del team, evidenziando così le peculiarità di
+ognuno, sia valutando le competenze come team.
 
 Il documento è suddiviso in diversi fogli:
 

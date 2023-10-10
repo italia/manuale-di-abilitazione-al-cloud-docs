@@ -20,11 +20,14 @@ In particolare, gli obiettivi di questa seconda fase del processo sono:
    decisione su quale strategia di migrazione sia più adatta a ciascun
    applicativo prioritizzato
 
-Per facilitare il raggiungimento di questi risultati, abbiamo creato una
-scheda di assessment dell’applicativo (vedi allegato “`Scheda di
-assessment dell'applicativo <https://drive.google.com/open?id=1P8lcsCxEXKYk7oZVoHrS6rhNmqdPz4bHfzmsmWq4akQ>`_”) che l’amministrazione può compilare
-seguendo le istruzioni riportate di seguito (ed esplicitate anche
-direttamente sul foglio di lavoro).
+Per facilitare il raggiungimento di questi risultati, abbiamo creato una scheda
+di assessment dell’applicativo (vedi allegato “`Scheda di assessment
+dell'applicativo in formato ODS
+<../_assets/Allegato_Scheda_di_assessment_dell_applicativo.ods>`_” o “`Scheda di
+assessment dell'applicativo in formato XLSX
+<../_assets/Allegato_Scheda_di_assessment_dell_applicativo.xlsx>`_”) che
+l’amministrazione può compilare seguendo le istruzioni riportate di seguito (ed
+esplicitate anche direttamente sul foglio di lavoro).
 
 In generale, la scheda di assessment dell’applicativo è stata pensata
 per:
